@@ -1,0 +1,8902 @@
+[
+  {
+    "id": "lagos-ogba-001",
+    "state": "Lagos",
+    "town": "Ogba",
+    "centerName": "WAEC TESTING AND TRAINING CENTRE CTR 1",
+    "address": "WAEC TESTING AND TRAINING CENTRE CTR 1, 60 IJAIYE ROAD, ADJACENT EXCELLENCE HOTEL, OGBA, LAGOS STATE",
+    "latitude": null,
+    "longitude": 5.732190346,
+    "landmark": ""
+  },
+  {
+    "id": "lagos-ogba-002",
+    "state": "Lagos",
+    "town": "Ogba",
+    "centerName": "WAEC TESTING AND TRAINING CENTRE CTR 2",
+    "address": "WAEC TESTING AND TRAINING CENTRE CTR 2, 60 IJAIYE ROAD, ADJACENT EXELLENCE HOTEL, OGBA, LAGOS STATE",
+    "latitude": null,
+    "longitude": 5.622491,
+    "landmark": ""
+  },
+  {
+    "id": "lagos-ogba-003",
+    "state": "Lagos",
+    "town": "Ogba",
+    "centerName": "TOPFLIGHT ENGINEERING CBTC 2",
+    "address": "TOPFLIGHT ENGINEERING CBTC 2, 8 MUYIWA CLOSE, OFF AJAYI ROAD, OGBA, LAGOS STATE",
+    "latitude": null,
+    "longitude": 5.7528931,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ojo",
+    "centerName": "STATO COMPUTER",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "BALAD PRIVATE SCHOOLS",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.5041271,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "SARINTER COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3941795,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "INSPIRA COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.5041271,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Okota",
+    "centerName": "NUBI PRIVATE SCHOOL 7",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3941795,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ojo",
+    "centerName": "VERA GRACE GROUP OF SCHOOLS CBT",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.7067996,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Badagry",
+    "centerName": "KEMMYSAM SCHOOLS ARUKWE STREET",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.363642,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Elepe",
+    "centerName": "OBANS C.B.T. CENTRE RN PLOT 32",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Lagos",
+    "centerName": "ISLAND MOSAMBELL EDU-CONSULTS LTD. 53",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.357566,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Akoka",
+    "centerName": "CMS GRAMMAR SCHOOL CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ojo",
+    "centerName": "ADAMSPRING CBT CTR 2",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.169896,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Festac",
+    "centerName": "INSTITUTE OF CRIMINAL JUSTICE AND CRIMINOLOGY ADMINISTRATION",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ajah",
+    "centerName": "TEESAS LEARNING AND CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.5623861,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Apapa",
+    "centerName": "DORCAS MEMORIAL COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Agege",
+    "centerName": "AGEGE LOCAL GOVERNMENT CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.319604574,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "DANBATH SCHOOLS",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.426986,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ejigbo",
+    "centerName": "MIANDKAY ENTERPRISE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Abijo",
+    "centerName": "HIGHERGROUND ACADEMY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "CTFEC INTERNATIONAL SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.442561,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ayobo",
+    "centerName": "DESTINY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Lagos",
+    "centerName": "ISLAND JOLAS COLLEGE CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "IKORODU DIVISION RESOURCE AND DEVELOPMENT GROUP (IKORODU TOWNHALL)",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.5041271,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Issele-uku",
+    "centerName": "JAMB IKEJA OFFICE 35/37 ISHERI ROAD BESIDE COUNTY HOSPITAL",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Egbeda/idimu",
+    "centerName": "LILY PRIDE COMPREHENSIVE HIGH SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Yaba",
+    "centerName": "YABA LCDA CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Badagry",
+    "centerName": "SUGAR FIELD HIGH SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": 2.8846128,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "DIVINE ELIZAADE CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3941795,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ogba",
+    "centerName": "OAK BUSINESS SCHOOL ULTRA MODERN CBT",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3941795,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "CALEB UNIVERSITY CTR. 1",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.6694485,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "CALEB UNIVERSITY CTR. 2",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.6694485,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "GREAT KEZINO COLLEGE CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.5041271,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "TOTALLIGHT COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3941795,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Abijo",
+    "centerName": "COLTEKBIZ CBT",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Surulere",
+    "centerName": "HIWORTH COLLEGE AND SIXTH FORM",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0312675,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Oshodi",
+    "centerName": "OVERCOMER DIGITAL SERVICES",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3941795,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ojota",
+    "centerName": "MINISTERS INTERNATIONAL COLLEGE CBT CENTRERN 12",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.41240102,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Egbeda/idimu",
+    "centerName": "ODUDUWA POLYTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.287601736,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Agege",
+    "centerName": "GREAT ASPIRATIONS INSTITUTE OF TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3203386,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Karu",
+    "centerName": "BINGHAM UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.679062,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Keffi",
+    "centerName": "MELCHIZEDEK ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Keffi",
+    "centerName": "ANTI-CORRUPTION ACADEMY OF NIGERIA",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.567035,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Karu",
+    "centerName": "FUTURE GATE MODEL SCHOOL CTR 1",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Lafia",
+    "centerName": "NASARAWA STATE POLYTHECNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5147636,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Lafia",
+    "centerName": "JAMB ZONAL OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.051948,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Lafia",
+    "centerName": "COMMAND SCIENCE SECONDARY SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.051948,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Mararaba",
+    "centerName": "AUNTY ALICE SCHOOLS",
+    "address": "",
+    "latitude": null,
+    "longitude": 10.3557246,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Mararaba",
+    "centerName": "LIZDAV ACADEMY NURSERY",
+    "address": "",
+    "latitude": null,
+    "longitude": 10.3557246,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Masaka",
+    "centerName": "GODS OWN SCHOLARS ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Masaka",
+    "centerName": "KADA MODEL ICT CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Akwanga",
+    "centerName": "COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.4080322,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Nasarawa",
+    "centerName": "FEDERAL POLYTECNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.9952044,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Karu",
+    "centerName": "FUTURE GATE MODEL SCHOOL CTR 2",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Masaka",
+    "centerName": "CHILDWORTH INTERNATIONAL SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Keffi",
+    "centerName": "SUPREME KINGS &AMP; QUEENS ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Lafia",
+    "centerName": "LAFIA KNOWLEDGE CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.548028,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Keffi",
+    "centerName": "JEREEGA ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Mararaba",
+    "centerName": "EXCELLESIA CBT",
+    "address": "",
+    "latitude": null,
+    "longitude": 10.3557246,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Akwanga",
+    "centerName": "OLA GIRLS&#039; CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.4080322,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Lafia",
+    "centerName": "UMARU TANKO AL-MAKURA CBT CENTRE BEHIND TA&#039;AL MODEL E-LIBRARY ADJACENT JAMB LAFIA ZONAL OFFICE LAFIA",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Lafia",
+    "centerName": "ABDULLAHI A. ADAMU JAMB PROFESSIONAL TEST CENTRE (PTC) HALL 1",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5147636,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Lafia",
+    "centerName": "A. A. SULE JAMB PROFESSIONAL TEST CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5147636,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Nasarawa",
+    "centerName": "MAS GLOBAL RESOURCES CBT CENTRE NASARAWA",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Keffi",
+    "centerName": "NASARAWA STATE UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 11.38616,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Mararaba",
+    "centerName": "UNITY INTERNATIONAL SCHOOLS CBT CENTRE 1",
+    "address": "",
+    "latitude": null,
+    "longitude": 10.3557246,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Mararaba",
+    "centerName": "UNITY INTERNATIONAL SCHOOLS CBT CENTRE 2",
+    "address": "",
+    "latitude": null,
+    "longitude": 10.3557246,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Karu",
+    "centerName": "DOMIVINE INTEGRATED RESOURCES LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Karu",
+    "centerName": "HOPE-JON INTERNATIONAL SCHOOL CBT",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.0792861,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Lafia",
+    "centerName": "MINISTRY OF EDUCATION STAFF COOPERATIVE THRIFT AND LOANS SOCIETY",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5147636,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Nasarawa-toto",
+    "centerName": "ATAL EDUCATION RESOURCES LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.3069302,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Nasarawa",
+    "town": "Lafia",
+    "centerName": "AKUZUMSHI RENTAL &amp;AMP; MARKETING ENTERPRISE LIMITED (CBT CENTRE GANDU",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5147636,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "Bida",
+    "centerName": "FEDERAL POLYTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.006812,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "Suleja",
+    "centerName": "AIR-MAX COMPUTER INSTITUTE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.188613,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "Minna",
+    "centerName": "FEDERAL UNIVERSITY OF TECH",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.5475752,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "Minna",
+    "centerName": "JAMB/NCC PROFESSIONAL TEST CENTRE (PTC)",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.5475752,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "Minna",
+    "centerName": "JAMB PROFESSIONAL TEST CENTRE (PTC)",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.5475752,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "Minna",
+    "centerName": "FEDERAL UNIVERSTY OF TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.5475752,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "Suleja",
+    "centerName": "BISHOP JAMES YISA MEMORIAL SCHOOL CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.180833,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "Zungeru",
+    "centerName": "NIGER STATE POLYTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.1514,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "Kontagora",
+    "centerName": "SANI BELLO COLLEGE ICT CENTRE KM2 SOKOTO-YAURI ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.3885663,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "Minna",
+    "centerName": "FEDERAL UNIVERSITY OF TECH",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.5475752,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "Gauraka",
+    "centerName": "BRILLIANT IMPACT INTERNATIONAL ACADEMY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "Suleja",
+    "centerName": "SPECTRUM COMPUTER CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.313321,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "Lapai",
+    "centerName": "IBRAHIM BADAMASI BABANGIDA UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.6075,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "Minna",
+    "centerName": "AHINSIF GLOBAL RESOURCES AND INVESTMENT LTD CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.5475752,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "Minna",
+    "centerName": "POLICE SECONDARY SCHOOL CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.5475752,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "Minna",
+    "centerName": "LIFT SOLUTIONS",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.5475752,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "New-bussa",
+    "centerName": "AMINA CENTRE FOR ENTERPRENUERSHIP (ACE) COMPUTER BASED TEST CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.427552,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "Suleja",
+    "centerName": "GLOBAL VISION SCHOOL CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.180833,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "New-bussa",
+    "centerName": "FEDERAL COLLEGE OF FRESHWATER FISHERIES TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.294381,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Niger",
+    "town": "Minna",
+    "centerName": "FEMA SCHOOLS CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.5475752,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Abeokuta",
+    "centerName": "FEDERAL COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.348,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Abeokuta",
+    "centerName": "JAMB STATE OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.342691,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Abeokuta",
+    "centerName": "MOSHOOD ABIOLA POLYTECHNIC OJERE ABEOKUTA",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.371416,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ago",
+    "centerName": "IWOYE OLABISI ONABANJO UNIVERSITY CTR 1",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ibefun",
+    "centerName": "INTERNATIONAL COLLEGE IBEFUN (CTR 1) K/M 12",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ibefun",
+    "centerName": "INTERNATIONAL COLLEGE IBEFUN (CTR 2) K/M 12",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Igbesa",
+    "centerName": "OGUN STATE INSTITUTE OF TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.620147,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ijebu",
+    "centerName": "ODE KONCEPT KOMPUTER ENTERPRISES (CTR 1)",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ijoko",
+    "centerName": "DAROPEG COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.887211243,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ijoko",
+    "centerName": "LEMODE LIFE BAKER COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ilaro",
+    "centerName": "FEDERAL POLYTECHNIC ILARO",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.020501,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ilishan-remo",
+    "centerName": "BABCOCK UNIVERSITY CENTRE FOR OPEN DISTANCE AND E-LEARNING (BUCODEL) CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.508607,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Abeokuta",
+    "centerName": "GATEWAY ICT LIMITED",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.348,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ota",
+    "centerName": "COVENANT UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.8,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Sagamu",
+    "centerName": "SOLID ROCK GIRLS ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.645589,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Mowe",
+    "centerName": "REDEEMERS UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ijebu-ode",
+    "centerName": "GATEWAY INDUSTRIAL AND PETRO-GAS INSTITUTE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.9151668,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ikenne",
+    "centerName": "PEAKAN INTERNATIONAL SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ibafo",
+    "centerName": "MOUNTAIN TOP UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.421874,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Saapade",
+    "centerName": "REMO GATEWAY ICT POLY. K/M 55 LAGOS-IBADAN EXP. WAY SAAPADE ESTATE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.664227,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Sagamu",
+    "centerName": "ADVANCED BREED CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.6440551,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ijebu",
+    "centerName": "ODE KONCEPT KOMPUTER ENTERPRISES(CTR 2)",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Abeokuta",
+    "centerName": "MUEENAT INTERNATIONAL ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.348,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Abeokuta",
+    "centerName": "NEEDS ASSESSMENT 250 COMPUTER LAB",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.348,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Abule",
+    "centerName": "IJOKO BATMOD HUB",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Sango",
+    "centerName": "OTA THE ULTIMATE COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Alagbole -",
+    "centerName": "AKUTE EARLY HEIGTHS COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ota",
+    "centerName": "BELLS UNIVERSITY OF TECH. K/M 8 IDI-IROKO RD. OTA",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.8,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ago",
+    "centerName": "IWOYE OLABISI ONABANJO UNIVERSITY CTR 2",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Abeokuta",
+    "centerName": "JAMB PROFESSIONAL TEST CENTRE (PTC)",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.348,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Abeokuta",
+    "centerName": "JAMB PROFESSIONAL TEST CENTRE (PTC)",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.348,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Owode",
+    "centerName": "YEWA THE GEM INTERNATIONAL SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": 2.9308199,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Mowe",
+    "centerName": "THE EAGLE HAND NIGERIA LIMITED. NO 3. IKUNGBONMIRE STREET",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ayetoro",
+    "centerName": "COMPREHENSIVE HIGH SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.863698,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ifo",
+    "centerName": "BAMMY COLLEGE CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.29019684,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ota",
+    "centerName": "HSS AMAZING",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Alagbole -",
+    "centerName": "AKUTE TIP-TOP SCHOOLS",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Agbara",
+    "centerName": "PRIME TOUCH COMPUTER",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.910731121,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ijebu",
+    "centerName": "ODE ABRAHAM ADESANYA POLYTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": 11.149122,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Sango",
+    "centerName": "OTA DAMDAV CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.8,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Sango",
+    "centerName": "OTA MOTLAND PRIVATE SCHOOL CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ibafo",
+    "centerName": "JEXTOBAN COLLEGE CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.421874,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ifo",
+    "centerName": "ROHI ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.16189,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Abule",
+    "centerName": "IJOKO ROYAL LANE COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.389967,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Igbesa",
+    "centerName": "COLTYMER HIGH SCHOOL CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.461309,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Sango",
+    "centerName": "OTA DIVINE SOUND COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ota",
+    "centerName": "VITALVISION COMPUTER SOLUTION LIMITED",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.7564051,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Sagamu",
+    "centerName": "DIVINE LIFE SCHOOLS",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.6440551,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Abeokuta",
+    "centerName": "GLANCE NEW CRYSTALS CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.348,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ifo",
+    "centerName": "HIGH BRAVADO SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ijebu",
+    "centerName": "ODE OGUN STATE POLYTECHNIC OF HEALTH AND ALLIED SCIENCES",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.987335,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ijoko",
+    "centerName": "DE IDEAL SCHOOLS",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Ago",
+    "centerName": "IWOYE ALETHEIA UNIVERSITY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.9194128,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ogun",
+    "town": "Abeokuta",
+    "centerName": "CRESCENT UNIVERSITY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Akungba",
+    "centerName": "ADEKUNLE AJASIN UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Akungba",
+    "centerName": "ADEKUNLE AJASIN UNIVERSITY ICT CENTRE 2 AKUNGBA AKOKO ONDO STATE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Akure",
+    "centerName": "HOLLARAM EDUCATIONAL SERVICES",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Akure",
+    "centerName": "IDRIS PREMIER COLLEGE COMPUTER CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Akure",
+    "centerName": "JAMB STATE OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Akure",
+    "centerName": "FEDERAL UNIVERSITY OF TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Ondo",
+    "centerName": "MIS/ICT CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Owo",
+    "centerName": "RUFUS GIWA POLYTECHNIC ICT DIRECTORATE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Ondo",
+    "centerName": "BABSON ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Ilara-mokin",
+    "centerName": "PUBLIC SERVICE TRAINING INSTITUTES CBT CENTRE AKURE-ILESA EXPRESSWAY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Ikare-akoko",
+    "centerName": "OPEOLUWA E-LEARNING CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Owo",
+    "centerName": "AMABLE NIG.LTD CBT CENTRE 21 OKE-OGUN ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Agadagba",
+    "centerName": "DERIMOBO ICT PLACE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Ondo",
+    "centerName": "SUCCESS CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Akure",
+    "centerName": "SVILLE TECHNOLOGY CONCEPT (STC) LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Okitipupa",
+    "centerName": "TIPLOGO NIGERIA LIMITED NO. 19 ALLI BALOGUN STREET",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Akure",
+    "centerName": "AINA AWAW INTERNATIONAL COLLEGE ICT HALL",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Akure",
+    "centerName": "OLOYEMEKUN DIGITAL TECH",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Owo",
+    "centerName": "PROF. ISA ALI IBRAHIM (PANTAMI) CBT CENTRE ACHIEVERS UNIVERSITY KM 1 IDASEN-UTE ROAD OWO ONDO STATE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Akure",
+    "centerName": "EBOLUW CONSULT",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Okitipupa",
+    "centerName": "BELLOTECH ICT ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Ikare-akoko",
+    "centerName": "GREATER TOMORROW CBT CENTER KM 3 IKARE AJOWA ROAD AGBALUKU ARIGIDI AKOKO ONDO STATE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ondo",
+    "town": "Ilara-mokin",
+    "centerName": "ELIZADE UNIVERSITY CBT CENTER WURA ADE-OJO AVENUE ILARA MOKIN ONDO STATE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Ede",
+    "centerName": "ADELEKE UNIVERSITY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Ede",
+    "centerName": "REDEEMERS UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Ikeji-arakeji",
+    "centerName": "JOSEPH AYO BABALOLA UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Ila-orangun",
+    "centerName": "OSUN STATE COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Ile-ife",
+    "centerName": "OBAFE MI AWOLOWO UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Ile-ife",
+    "centerName": "OBAFEMI AWOLOWO UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Ilesa",
+    "centerName": "CHRIST THE KING ACADEMY SCHOOL LTD.",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Ilesa",
+    "centerName": "CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Osogbo",
+    "centerName": "JAMB STATE OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Ipetumodu",
+    "centerName": "ODUDUWA UNIVERSITY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Ikire",
+    "centerName": "OSUN STATE UNIVERSITY IKIRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Iwo",
+    "centerName": "BOWEN UNIVERSITY COMPUTER SCIENCE AND INFORMATION TECHNOLOGY LAB",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Erin-osun",
+    "centerName": "ELERINMOSA RESOURCE HUB LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Ilesa",
+    "centerName": "ICT HALL A",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Ilesa",
+    "centerName": "ICT HALL B",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Ile-ife",
+    "centerName": "FVL (FOYRMOST VENTURES LTD) MILLENNIUM CONCEPTS CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Modakeke",
+    "centerName": "TOP CONCEPTS INFOTECH SERVICES",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Moro",
+    "centerName": "ICT/CBT HALL A",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Iwo",
+    "centerName": "THE WINGS SCHOOLS CBT CENTRE. PLOT 8-18",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Osogbo",
+    "centerName": "ALL BEST ALLIED ICT AND VOCATIONAL CENTRE BLOCK 1",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Osogbo",
+    "centerName": "EXCELLENT EDUCATIONAL INSTITUTE CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Moro",
+    "centerName": "ICT/CBT HALL B",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Osogbo",
+    "centerName": "JAMB PROFESSIONAL TEST CENTRE I",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Osogbo",
+    "centerName": "JAMB PROFESSIONAL TEST CENTRE II",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Osogbo",
+    "centerName": "OSUN STATE UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Osogbo",
+    "centerName": "NEW GENERATION BRIGHT HOPE CBT CENTRE BEHIND KOLABALOGUN HOUSE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Osogbo",
+    "centerName": "OSUN STATE UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Ile-ife",
+    "centerName": "JAMB INTERNATIONAL RESORT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Ibokun",
+    "centerName": "IBOKUN COMPUTER BASED TEST CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Ede",
+    "centerName": "BELOVED ICT HUB",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Ede",
+    "centerName": "BELOVED ICT HUB",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Osogbo",
+    "centerName": "BISHOP FELIX OWOLABI INT&amp;#039;L ACADEMY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Osogbo",
+    "centerName": "BISHOP FELIX OWOLABI INT&amp;#039;L ACADEMY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Osun",
+    "town": "Inisa",
+    "centerName": "HERITAGE COLLEGE CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Igbo-ora",
+    "centerName": "OYO STATE COLLEGE OF AGRICULTURE AND TECHNOLOGY (OYSCATECH) CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ago-amodu",
+    "centerName": "LOCAL GOVERNMENT CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "EAST JAMB PROFESSIONAL TEST CENTRE (PTC)",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST THE POLYTECHNIC IBADAN ICT CENTRE BESIDE WEMA BANK",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST UNIVERSITY OF IBADAN",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST ESTHER OSHIKOYA CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST UNIVERSITY OF IBADAN",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST ATANDA GROUP OF SCHOOLS ICT RESOURCE CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ogbomoso",
+    "centerName": "LADOKE AKINTOLA UNIVERSITY OF TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ogbomoso",
+    "centerName": "LADOKE AKINTOLA UNIVERSITY OF TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Oyo",
+    "centerName": "FEDERAL COLLEGE OF EDUCATION (SPECIAL) E-LEARNING",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Saki",
+    "centerName": "THE OKE-OGUN POLYTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST UNIVERSITY OF IBADAN DISTANCE LEARNING CBT CENTRE 3",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Oyo",
+    "centerName": "EMMANUEL ALAYANDE UNIVERSITY OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "EAST I-FLIER INT SCHOOL CBT CENTRE 1",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "EAST ABIMBOLA EXCEL ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Oyo",
+    "centerName": "EMMANUEL ALAYANDE UNIVERSITY OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Okeho",
+    "centerName": "DAMDAV CBT CENTRE I",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Okeho",
+    "centerName": "DAMDAV CBT CENTRE II",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Kishi",
+    "centerName": "NOVELTY ACADEMY CBT",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "EAST I-FLIER INT SCHOOL CBT CENTRE 2",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST SIGNAL WORLD CBT",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST COMMAND SECONDARY SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ogbomoso",
+    "centerName": "LADOKE AKINTOLA UNIVERSITY OF TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST YINBOL COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST ABDUL OCEAN WEALTH CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Oyo",
+    "centerName": "ELECTROMEDIA COMPLEX CENTRE 2",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST VALIANTS HAVILAH CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST WEST CONSULT CBT",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Eruwa",
+    "centerName": "ADESEUN OGUNDOYIN POLYTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST EMBETH CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST JESUS THE ROCK COLLEGE CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Oyo",
+    "centerName": "SALAMAT OLANIYAN COLLEGE CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "EAST HISMAY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "EAST PEFTI CBT CENTE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST MUTAN CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "EAST DOLVIC SCHOOLS CBT CENTER- HOUSE 1",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST ICON ONLINE PROFESSIONAL TUTORS CENTRE 1",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST ALUKO E-NET ICT CENTRE ROAD 3",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST FEDERAL COLLEGE OF FORESTRY CBT CENTRE.AFTER ALL SAINTS CHURCH ALONG IDI ISHIN",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "EAST ICON ONLINE PROFESSIONAL TUTORS CENTRE 2",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "EAST QUEEN VEE SCHOOLS CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST COVENANT COLLEGE CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "EAST NESAM INTERNATIONAL SCHOOL CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Oyo",
+    "centerName": "PROF USMAN E-LEARNING CENTRE FEDERAL COLLEGE OF EDUCATION (SPECIAL) OYO",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "EAST LIVINGSTONE COLLEGE OF ART AND SCIENCE BASORUN ESTATE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST DALOM SCHOOL CBT CENTRE PLOT 2-4 BELLO ILUGUSI LAYOUT",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST THE VIRTUE COLLEGE CBT CENTRE .ADEBAYO STREET",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "EAST OBMS CAMBRIDGE AND ADVANCED A&#039;LEVEL COLLEGE/ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Queen",
+    "town": "Elizabeth",
+    "centerName": "II ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "EAST BEST BRAIN COLLEGE CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "EAST ARC.BAMIDELE SAMSON CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Oyo",
+    "town": "Ibadan",
+    "centerName": "WEST ICON ONLINE PROFESSIONAL TUTORS CENTRE 3",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Gindiri",
+    "centerName": "COLLEGE OF EDUCATION GINDIRI",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Jos",
+    "centerName": "FEDERAL COLLEGE OF FORESTRY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Jos",
+    "centerName": "SOLID TRUST COMPUTER WORLD",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Jos",
+    "centerName": "RABJIB COMPUTER ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Jos",
+    "centerName": "SAINT LOIS COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Jos",
+    "centerName": "UNIVERSITY OF JOS CONSULTANCY LIMITED",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Jos",
+    "centerName": "JAMB STATE OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Barkin",
+    "centerName": "LADI PLATEAU STATE POLYTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Pankshin",
+    "centerName": "FEDERAL COLLEGE OF EDUCATION ( CENTRE 1) JOS-PANSHIN ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Jos",
+    "centerName": "ECWA INTERNATIONAL COLLEGE OF TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Shendam",
+    "centerName": "OUR LADY OF FATIMA",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Jos",
+    "centerName": "SANI MIKAILA COMPREHENSIVE COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Jos",
+    "centerName": "SKYNET INFORMATION TECHNOLOGY INSTITUTE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Jos",
+    "centerName": "NIGERIAN INSTITUTE OF MINING AND GEOSCIENCES (NIMG)",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Langtang",
+    "centerName": "ST AUGUSTINE ACADEMY SOLOMON LAR WAY BEFORE SATURDAY MARKET JUNCTION LANGTANG",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Gindiri",
+    "centerName": "BRIDGET WILLIAMS ICT CENTER/E-LIBRARY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Mangu",
+    "centerName": "SHANG TONG ICT CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Jos",
+    "centerName": "GOVERNMENT SCIENCE AND TECHNICAL COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Jos",
+    "centerName": "ABSHA DIGITAL ACCESS",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Bokkos",
+    "centerName": "NIGERIA BUILDING AND ROAD RESEARCH INSTITUTE(NBRRI) ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Pankshin",
+    "centerName": "FEDERAL COLLEGE OF EDUCATION (CENTRE 2)",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Jos",
+    "centerName": "DE-CALIB TECH HUB",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Langtang",
+    "centerName": "NATIONAL OPEN UNIVERSITY (NOUN)",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Plateau",
+    "town": "Jos",
+    "centerName": "BAPTIST CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Port",
+    "centerName": "HARCOURT SOUTH UNIVERSITY OF PORT HARCOURT",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Elelenwo",
+    "centerName": "EVINOK CONNECXION NIG. LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Oyigbo",
+    "centerName": "ACE INTERNATIONAL TRAINING CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Port",
+    "centerName": "HARCOURT SOUTH RIVERS STATE UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Etche",
+    "centerName": "KING&#039;S WORD COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Bonny",
+    "centerName": "ANPEZ CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Port",
+    "centerName": "HARCOURT SOUTH EBENEZER INTERNATIONAL SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Port",
+    "centerName": "HARCOURT SOUTH JAMB ZONAL OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Port",
+    "centerName": "HARCOURT SOUTH BONNY KINGDOM CBT CENTRE FEDERAL POLYTECHNIC OF OIL AND GAS ABALAMABIE ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Port",
+    "centerName": "HARCOURT SOUTH ASHGROVE ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Iriebe",
+    "centerName": "ACE INTERNATIONAL TRAINING CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Port",
+    "centerName": "HARCOURT SOUTH ARCHDEACON BROWN EDUCATION CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Eleme",
+    "centerName": "RANJENNYS SCHOOLS",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Oyigbo",
+    "centerName": "FASTFIVE COMPUTERS NIG LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Igbo",
+    "centerName": "ETCHE E - DISTRICT",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Elele",
+    "centerName": "STATE SCHOOL III ELELE TOWN",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Port",
+    "centerName": "HARCOURT SOUTH AVE MARIA INTERNATIONAL ACADEMY CTR 1 OPPOSITE DEEPER LIFE BIBLE CHURCH HQTRS",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Elelenwo",
+    "centerName": "MONCORDEL INTERNATIONAL SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Port",
+    "centerName": "HARCOURT SOUTH PROVIL SCHOOLS CBT CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Port",
+    "centerName": "HARCOURT SOUTH AVE MARIA INTERNATIONAL ACADEMY CTR 2 OPPOSITE DEEPER LIFE BIBLE CHURCH HQTRS",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Port",
+    "centerName": "HARCOURT SOUTH A-PAGEN CONSOLIDATED SERVICES LIMITED",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Port",
+    "centerName": "HARCOURT SOUTH BRIGHT HOPE STANDARD COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Port",
+    "centerName": "HARCOURT SOUTH STATE PRIMARY SCHOOL 1",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Elelenwo",
+    "centerName": "MARANATHA AND ASSOCIATES",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Port",
+    "centerName": "HARCOURT SOUTH THE CONSULATE SALLE D&#039;EXAMEN CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Port",
+    "centerName": "HARCOURT SOUTH ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Eleme",
+    "centerName": "JOHN WESLEY ICT CENTRE 99/105 HOSPITAL ROAD BORI",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Oyigbo",
+    "centerName": "I.J.A COMPUTER SERVICES",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Port",
+    "centerName": "HARCOURT SOUTH GRAND TOPSTARZ INTERNATIONAL GROUP OF SCHOOLS",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Eleme",
+    "centerName": "RANJENNYS CBT CENTER 2",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Elele",
+    "centerName": "STEVECOM INTEGRATED SERVICES",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Port",
+    "centerName": "HARCOURT SOUTH TOPMOST GRACE MONTESSORI SCHOOL CBT CTR 2. TGMS RUMUOPARALI ROAD BY SDA JUNCTION CHOBA",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Port",
+    "centerName": "HARCOURT SOUTH TOPMOST GRACE MONTESSORI SCHOOL CBT CTR 3. TGMS RUMUOPARALI ROAD BY SDA JUNCTION CHOBA",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Rivers",
+    "town": "Port",
+    "centerName": "HARCOURT NORTH DESSJEFF INVESTMENT NIGERIA LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Sokoto",
+    "town": "Sokoto",
+    "centerName": "BLUE CRESCENT SCHOOLS SOKOTO",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Sokoto",
+    "town": "Sokoto",
+    "centerName": "SHEHU SHAGARI COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Sokoto",
+    "town": "Sokoto",
+    "centerName": "SOKOTO EDUCATION DEVELOPMENT TRUST FUND (SEDFT)",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Sokoto",
+    "town": "Sokoto",
+    "centerName": "SOKOTO STATE UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Sokoto",
+    "town": "Sokoto",
+    "centerName": "JAMB STATE OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Sokoto",
+    "town": "Sokoto",
+    "centerName": "UDUS DIGITAL LEARNING CENTRE LTD (PROMETRIC ICT CENTRE)",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Sokoto",
+    "town": "Sokoto",
+    "centerName": "UMARU ALI SHINKAFI POLYTECHNIC SOKOTO",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Sokoto",
+    "town": "Sokoto",
+    "centerName": "ALIYU MAGATAKARDA WAMAKKO ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Sokoto",
+    "town": "Sokoto",
+    "centerName": "TOTAL ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Sokoto",
+    "town": "Sokoto",
+    "centerName": "PENTA M &AMP; F TECHNICAL SERVICES LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Sokoto",
+    "town": "Sokoto",
+    "centerName": "PENTA M &AMP; F TECHNICAL SERVICES LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Sokoto",
+    "town": "Sokoto",
+    "centerName": "USMANU DANFODIYO UNIVERSITY (NCC) ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Sokoto",
+    "town": "Sokoto",
+    "centerName": "UMARU ALI SHINKAFI POLYTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Taraba",
+    "town": "Bali",
+    "centerName": "FEDERAL POLYTECHNIC (PERMANENT SITE) ICT CENTER 1",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Taraba",
+    "town": "Jalingo",
+    "centerName": "JAMB PROFESSIONAL TEST CENTRE (PTC)",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Taraba",
+    "town": "Jalingo",
+    "centerName": "TARABA STATE UNIVERSITY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Taraba",
+    "town": "Bali",
+    "centerName": "FEDERAL POLYTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Taraba",
+    "town": "Takum",
+    "centerName": "TARABA STATE COLLEGE OF HEALTH AND TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Taraba",
+    "town": "Jalingo",
+    "centerName": "COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Taraba",
+    "town": "Wukari",
+    "centerName": "FEDERAL UNIVERSITY WUKARI",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Taraba",
+    "town": "Jalingo",
+    "centerName": "STENA IT ACADEMY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Taraba",
+    "town": "Gembu",
+    "centerName": "GSS GEMBU CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Taraba",
+    "town": "Jalingo",
+    "centerName": "DIGAL INDUSTRIAL ENTERPRISES",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Taraba",
+    "town": "Bali",
+    "centerName": "FEDERAL POLYTECHNIC (PERMANENT SITE) ICT CENTER 2",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Taraba",
+    "town": "Wukari",
+    "centerName": "FEDERAL UNIVERSITY WUKARI",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Taraba",
+    "town": "Bali",
+    "centerName": "FEDERAL POLYTECHNIC BALI",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Taraba",
+    "town": "Jalingo",
+    "centerName": "LAMDA CBT CENTRE 1",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Taraba",
+    "town": "Jalingo",
+    "centerName": "GRACE JUNIOR ACADEMY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Yobe",
+    "town": "Damaturu",
+    "centerName": "JAMB STATE OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Yobe",
+    "town": "Potiskum",
+    "centerName": "FEDERAL COLLEGE OF EDUCATION (TECHNICAL)",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Yobe",
+    "town": "Gashua",
+    "centerName": "FEDERAL UNIVERSITY GASHUA",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Yobe",
+    "town": "Damaturu",
+    "centerName": "FEDERAL POLYTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Yobe",
+    "town": "Potiskum",
+    "centerName": "FEDERAL COLLEGE OF EDUCATION (TECHNICAL)",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Yobe",
+    "town": "Nguru",
+    "centerName": "ISAH NGURU VENTURES",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Yobe",
+    "town": "Nguru",
+    "centerName": "ISAH NGURU VENTURES",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Yobe",
+    "town": "Potiskum",
+    "centerName": "E-EXAMS CENTRE III",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Yobe",
+    "town": "Damaturu",
+    "centerName": "COMPUTER MEGA LAB",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Zamfara",
+    "town": "Gusau",
+    "centerName": "FEDERAL COLLEGE OF EDUCATION (TECHNICAL)",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Zamfara",
+    "town": "Gusau",
+    "centerName": "JAMB STATE OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Zamfara",
+    "town": "Kaura",
+    "centerName": "NAMUDA FEDERAL POLYTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Zamfara",
+    "town": "Maru",
+    "centerName": "COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Zamfara",
+    "town": "Kaura",
+    "centerName": "NAMUDA AMLAK TECHNOLOGY CBT CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Zamfara",
+    "town": "Talata",
+    "centerName": "MAFARA TALATA MAFARA DEVELOPMENT TRUST FUND CBT CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Zamfara",
+    "town": "Gusau",
+    "centerName": "AMLAK TECHNOLOGY CBT CENTER II OPPOSITE GLO OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Bwari",
+    "centerName": "JAMB PROFESSIONAL TEST CENTRE (PTC)",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Abuja",
+    "centerName": "II(BWARI/DUTSE/KUBWA/DEI- DEI)JAMB PROFESSIONAL TEST CENTRE (PTC)",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Apo",
+    "centerName": "JAMB ZONAL OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Gwagwalada",
+    "centerName": "CHRIST THE KINGS COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Kuje",
+    "centerName": "ISLAMIC LEADERSHIP ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Maitama",
+    "centerName": "TIGH TECHNOLOGIES LIMITED",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Maitama",
+    "centerName": "SASCON INTERNATIONAL SCHOOL CBT CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Gwagwalada",
+    "centerName": "BEST INTELLECT INTERNATIONAL ACADEMY CBT",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Life",
+    "centerName": "CAMP JC BEST SCHOOLS INTERNATIONAL CBT CENTRE ONE(1)",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Apo",
+    "centerName": "JAMB FCT LIASON OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Jahi",
+    "centerName": "ADUVIE INTERNATIONAL SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Kubwa",
+    "centerName": "ADEOLA INTERNATIONAL SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Dutse",
+    "centerName": "TOTAL CHILD COMPUTER AND CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Dei-dei",
+    "centerName": "KINGS COMPREHENSIVE COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Gwagwalada",
+    "centerName": "CHRIST ACADEMY INTERNATIONAL SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Life",
+    "centerName": "CAMP JC BEST SCHOOLS INTERNATIONAL CBT CENTRE TWO(2)",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Kubwa",
+    "centerName": "ROSA-MYSTICA ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Kuje",
+    "centerName": "HANDMAIDS GIRLS SECONDARY SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Technologies",
+    "town": "Limited .naf",
+    "centerName": "VALLEY ESTATE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Jikwoyi",
+    "centerName": "JUNIOR SECONDARY SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Mararaba",
+    "centerName": "EMIS CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Abuja",
+    "centerName": "DANTATA UNIVERSAL SEERVICES",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Mararaba",
+    "centerName": "ZINARIA INTERNATIONAL SCHOOL MARARABA",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Wuse",
+    "centerName": "TUDUN WADA CBT HUB",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Karu",
+    "centerName": "SKILLPATH INTERNATIONAL ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Gwarimpa",
+    "centerName": "CAPVILLE SCHOOLS",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Apo",
+    "centerName": "FOZY GLOBAL CONCEPTS LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Gwagwalada",
+    "centerName": "BENAIAH SCHOOL CBT CENTER .RNNO. 5 BITRUS TAH CLOSE OFF OLD KUTUNKU ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Abuja",
+    "centerName": "ANSAR-UD-DEEN SOCIETY CENTENARY RESOURCE (CBT) CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Abuja",
+    "centerName": "II(BWARI/DUTSE/KUBWA/DEI- DEI)NATIONAL INSTITUTE FOR SECURITY STUDIES CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Fct",
+    "town": "Abuja",
+    "centerName": "ZULQUD CONSULT LTD (ZCL CBT CENTER)GOVERNMENT SECONDARY SCHOOL LUGBE BY CAR WASH. LUGBE BRIDGE",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Abia",
+    "town": "Aba",
+    "centerName": "BRIGHT STARS INTERNATIONAL SCHOOLS",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.3525868,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Abia",
+    "town": "Aba",
+    "centerName": "MATER MISERICORDIAE HUMAN EMPOWERMENT COMPUTER SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.3647477,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Abia",
+    "town": "Umuahia",
+    "centerName": "AMABLE NIGERIA LIMITED",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4911055,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Abia",
+    "town": "Umuahia",
+    "centerName": "XYZ TECHNOLOGIES",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.5156989,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Abia",
+    "town": "Umudike",
+    "centerName": "MICHAEL OKPARA UNIVERSITY OF AGRICULTURE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.5423259,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Abia",
+    "town": "Aba",
+    "centerName": "FEDORA GRAMMAR SCHOOL CBT OWO NA UMUOSI VILLAGE BY UMUOJIMA JUNCTION ALAOMA AUT. COMM. ABA ABIA STATE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.3932785,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Abia",
+    "town": "Aba",
+    "centerName": "SURFTECH TELECOMM COMPUTER SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.3794833,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Abia",
+    "town": "Aba",
+    "centerName": "ST MICHAEL&#039;S COMPREHENSIVE SECONDARY SCHOOL. 134 UMUOCHAM ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.3400637,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Abia",
+    "town": "Umunneochi",
+    "centerName": "IHECHUKWU MADUBUIKE INSTITUTE OF TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4025421,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Abia",
+    "town": "Aba",
+    "centerName": "HAVARD WILSON COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.3510112,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Abia",
+    "town": "Aba",
+    "centerName": "RIGHT PATH ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.3739595,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Abia",
+    "town": "Okoko-item",
+    "centerName": "JAMB PROFESSIONAL TEST CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.6371808,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Abia",
+    "town": "Aba",
+    "centerName": "JEDIDAH ICT INTEGRATED SERVICES",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.3447325,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Abia",
+    "town": "Arochukwu",
+    "centerName": "HUGH GOLDIE LAY/THEOLOGICAL TRAINING INSTITUTION (MACOTO ICT HALL)",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.90482,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Abia",
+    "town": "Aba",
+    "centerName": "THE NOBLELAND INTERNATIONAL SECONDARY SCHOOL CBT. 13 ONU STREET UMUOGELE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.379864,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Abia",
+    "town": "Umudike",
+    "centerName": "AMADEUS UNIVERSITY CBT CENTRE AMIZI IKWUANO ABIA STATE.",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.5838181,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Abia",
+    "town": "Okoko-item",
+    "centerName": "AROL UNIQUE INVESTMENTS LIMITED",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.6371808,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Abia",
+    "town": "Aba",
+    "centerName": "CACCOU INVESTMENT LIMITED.RNACHOR NWAKANMA ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4566999,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Abia",
+    "town": "Aba",
+    "centerName": "GEO-ROSERNY INT. SCH.RN19 GLASS INDUSTRY ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.3873174,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Adamawa",
+    "town": "Mubi",
+    "centerName": "FEDERAL POLYTECHNIC MUBI",
+    "address": "",
+    "latitude": null,
+    "longitude": 13.2900557,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Adamawa",
+    "town": "Yola",
+    "centerName": "FEDERAL COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 12.4586291,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Adamawa",
+    "town": "Yola",
+    "centerName": "JAMB STATE OFFICE YOLA",
+    "address": "",
+    "latitude": null,
+    "longitude": 12.4901854,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Adamawa",
+    "town": "Yola",
+    "centerName": "MODIBBO ADAMA UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 12.4901854,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Adamawa",
+    "town": "Yola",
+    "centerName": "MODIBBO ADAMA UNIVERSITY OF TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": 12.4901854,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Adamawa",
+    "town": "Yola",
+    "centerName": "MODIBBO ADAMA UNIVERSITY YOLA",
+    "address": "",
+    "latitude": null,
+    "longitude": 12.4901854,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Adamawa",
+    "town": "Mubi",
+    "centerName": "ADAMAWA STATE UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 13.2810914,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Adamawa",
+    "town": "Yola",
+    "centerName": "CAPITAL CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 12.4408104,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Adamawa",
+    "town": "Yola",
+    "centerName": "LAMIDO ZUBAIRU EDUCATION CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": 12.5032662,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Adamawa",
+    "town": "Mubi",
+    "centerName": "AMJAD INTEGRATED SERVICES NIG. LTD GSS JUNCTION",
+    "address": "",
+    "latitude": null,
+    "longitude": 13.2952096,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Adamawa",
+    "town": "Yola",
+    "centerName": "DARUL ARQAM ISLAMIC INSTITUTE",
+    "address": "",
+    "latitude": null,
+    "longitude": 12.4711725,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Adamawa",
+    "town": "Mubi",
+    "centerName": "ADAMAWA STATE COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 12.9262851,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Adamawa",
+    "town": "Yola",
+    "centerName": "ZENITH CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 12.4481296,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Adamawa",
+    "town": "Mubi",
+    "centerName": "MUBI INFORTECH AND CBT CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": 13.2530558,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Akwa-",
+    "town": "Ibomuyo",
+    "centerName": "GESTRIC INFORTECH AND MANAGEMENT INSTITUTE CTR 1",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.9344181,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Akwa-",
+    "town": "Ibomuyo",
+    "centerName": "JAMB STATE OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.9330713,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Akwa-",
+    "town": "Ibomuyo",
+    "centerName": "PTDF E-RESOURCE CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.9241021,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Akwa-",
+    "town": "Ibomikot-ekpene",
+    "centerName": "AKWA IBOM STATE POLYTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.668158,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Akwa-",
+    "town": "Ibomikot-ekpene",
+    "centerName": "ROLINS KING INFOTECH AND MANAGEMENT TECHNOLOGY CTR 1",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.7033901,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Akwa-",
+    "town": "Ibomikot-ekpene",
+    "centerName": "ROLINS KING INFOTECH AND MANAGEMENT TECHNOLOGY CTR 2",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.7033901,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Akwa-",
+    "town": "Ibomafaha",
+    "centerName": "NSIT AKWA IBOM STATE COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.9048368,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Akwa-",
+    "town": "Ibomikono",
+    "centerName": "LOAM POLYTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.7808401,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Akwa-",
+    "town": "Ibomobong",
+    "centerName": "NTAK OBONG UNIVERSITY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.5672013,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Akwa-",
+    "town": "Ibomikot-akai",
+    "centerName": "UDOM GABRIEL EMMANUEL CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.581188,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Akwa-",
+    "town": "Ibomuyo",
+    "centerName": "HERITAGE DIGI-LINK INT&#039;L LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.9077917,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Akwa-",
+    "town": "Ibomeket",
+    "centerName": "DIVINE SEEDS PRINTING CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.9429388,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Akwa-",
+    "town": "Ibomoron",
+    "centerName": "EDET AMANA FOUNDATION ICT HUB NO 1",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.9127945,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Akwa-",
+    "town": "Ibomuyo",
+    "centerName": "EBENEZER INTERNATIONAL SCHOOLS",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.9127945,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Akwa-",
+    "town": "Ibomikot",
+    "centerName": "EDIBON PASTOR (MRS) PATIENCE UMO ENO ICT CENTRE NSIT UBIUM COUNCIL HEADQUARTERS.",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.9374948,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Awka",
+    "centerName": "INTEGRAL DEVELOPMENT KONSULT",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0654655,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Awka",
+    "centerName": "JAMB STATE OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0176445,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Awka",
+    "centerName": "CHUKWUEMEKA ODUMEGWU OJUKWU UNIVERSITY E-LIBRARY (COOU) CTR II",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0803455,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Obosi",
+    "centerName": "NKEMEFUNA FOUNDATION (THOMAS CHIDIOKA CENTRE FOR HUMAN DEVELOPMENT) MIKE AJEAGBO ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.833258,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Nsugbe",
+    "centerName": "NWAFOR ORIZU COLLEGE OF EDUCATION NSUGBE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.8029658,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Awka",
+    "centerName": "NNAMDI AZIKIWE UNIVERSITY AWKA DIGITAL LIBRARY CENTRE I",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.119894,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Awka",
+    "centerName": "NNAMDI AZIKIWE UNIVERSITY AWKA DIGITAL LIBRARY CENTRE II",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.119894,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Nnewi",
+    "centerName": "AFRITECH CBT CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.920608,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Nsugbe",
+    "centerName": "NWAFOR ORIZU COLLEGE OF EDUCATION NSUGBE E - LIBRARY",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.8029658,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Umunze",
+    "centerName": "FEDERAL COLLEGE OF EDUCATION (TECHNICAL) UMUNZE -MAIN CAMPUS CENTRE I",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.2166289,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Onitsha",
+    "centerName": "LADY HANNAH CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.804999,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Awka",
+    "centerName": "ETITI ALPHABASE INTEGRATED TECHNOLOGIES .RNUMUDUNU VILLAGE HALL BEFORE BIG DIAMOND HOTEL",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.9708242,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Umunze",
+    "centerName": "FEDERAL COLLEGE OF EDUCATION (TECHNICAL) UMUNZE -MAIN CAMPUS CENTRE III",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.2166289,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Onitsha",
+    "centerName": "MAYRAYS DIGITAL PLUS",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.7796502,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Onitsha",
+    "centerName": "ST ANTHONY OF PADUA ICT HUB CKC HALL 2",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.7923994,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Awka",
+    "centerName": "KACHUKWURU VENTURES STAFF DEVELOPMENT CENTRE AWKA",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.093693,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Awka",
+    "centerName": "ST. JOHN OF GOD ICT HUB",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0716478,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Onitsha",
+    "centerName": "CHRIST DE KING I.C.T CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.7910707,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Oko",
+    "centerName": "HOLY ROSARY VOCATION AND INNOVATIVE INSTITUTE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.007521,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Enugwu-ukwu",
+    "centerName": "NOBLE LIGHT GOLD",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.086571,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Onitsha",
+    "centerName": "INFOTECH IT LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.7952608,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Onitsha",
+    "centerName": "INFOTECH IT LIMITED",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.7467229,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Awka",
+    "centerName": "JAMB PTC AWKA",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0439496,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Adazi-nnukwu",
+    "centerName": "COLLEGE OF NURSING SCIENCES",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0126546,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Onitsha",
+    "centerName": "MARY CREST ICT HUB",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.7959282,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Onitsha",
+    "centerName": "MR. GR8 ICT",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.8128437,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Onitsha",
+    "centerName": "MUNA ZITA GLOBAL RESOURCES LIMITED",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.8083063,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Nnewi",
+    "centerName": "ALIVE UNTO GOD COMPUTERS",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.9135511,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Nnewi",
+    "centerName": "FOBIS INTEGRATED ICT HUB",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.9103455,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Onitsha",
+    "centerName": "EMICO CONSULT ICT HUB",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.7965664,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Onitsha",
+    "centerName": "ST. CHARLES BORROMEO COLLEGE OF NURSING CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.8188125,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Anambra",
+    "town": "Awka",
+    "centerName": "ST. PATRICK&amp;#039;S COLLEGE ICT HUB",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0564991,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bauchi",
+    "town": "Bauchi",
+    "centerName": "ABUBAKAR TAFAWA BALEWA UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.8174704,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bauchi",
+    "town": "Bauchi",
+    "centerName": "ABUBAKAR TATARI ALI POLYTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.8395941,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bauchi",
+    "town": "Bauchi",
+    "centerName": "ALFURQAN INTERNATIONAL ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.8200426,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bauchi",
+    "town": "Bauchi",
+    "centerName": "DOLPHIN MARIA COLLEGE SUNDAY AWONIYI ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.8304358,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bauchi",
+    "town": "Bauchi",
+    "centerName": "GIWO SCIENCE ACADEMY CBT",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.8174704,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bauchi",
+    "town": "Bauchi",
+    "centerName": "JAMB ZONAL OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.8238554,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bauchi",
+    "town": "Misau",
+    "centerName": "MISAU EMIRATE ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 10.4345094,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bauchi",
+    "town": "Misau",
+    "centerName": "A.D RUFA&#039;I CLIS MISAU",
+    "address": "",
+    "latitude": null,
+    "longitude": 10.4802711,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bauchi",
+    "town": "Bauchi",
+    "centerName": "AN-NUR E-LEARNING CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.7930545,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bauchi",
+    "town": "Azare",
+    "centerName": "HALL 1- JAMB/NCC PROFESSIONAL TEST CENTRE (PTC)",
+    "address": "",
+    "latitude": null,
+    "longitude": 10.1891569,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bauchi",
+    "town": "Azare",
+    "centerName": "HALL 2- JAMB/NCC PROFESSIONAL TEST CENTRE (PTC)",
+    "address": "",
+    "latitude": null,
+    "longitude": 10.1891569,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bauchi",
+    "town": "Bauchi",
+    "centerName": "SAFUZ ICT HUB",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.805034,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bauchi",
+    "town": "Bauchi",
+    "centerName": "BAUCHI STATE E-LIBRARY CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.8403959,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bauchi",
+    "town": "Bauchi",
+    "centerName": "LOBSTER INTERNATIONAL ACADEMY NURSERY/SECONDARY SCHOOL CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.856748,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bauchi",
+    "town": "Bauchi",
+    "centerName": "ANNOOR INTERNATIONAL ISLAMIC ACADEMY ALONG GUBI DAM ROAD ADJACENT GIDA DUBU",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.8636189,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bayelsa",
+    "town": "Yenagoa",
+    "centerName": "PREDESAF ACADEMY LTD. OPPOSITE NNPC AKENFA 3 YENAGOA",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.2747734,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bayelsa",
+    "town": "Yenagoa",
+    "centerName": "JAMB STATE OFFICE YENAGOA 3 POLICE HEADQUARTER ROAD OVOM",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.3491975,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bayelsa",
+    "town": "Yenagoa",
+    "centerName": "LINNET PAUL INNOVATIVE INSTITUTION ETEGWE YENAGOA",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.353388,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bayelsa",
+    "town": "Amassoma",
+    "centerName": "NIGER DELTA UNIVERSITY CTR1",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.1045286,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bayelsa",
+    "town": "Amassoma",
+    "centerName": "NIGER DELTA UNIVERSITY CTR2",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.1045286,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bayelsa",
+    "town": "Imiringi",
+    "centerName": "ASPIRE MULTI-LINK INFOTECH RESORT BESIDE FAVOUR MODEL SCHOOL IMIRINGI",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.3744687,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bayelsa",
+    "town": "Toru-orua",
+    "centerName": "UNIVERSITY OF AFRICA TORU-ORUA SAGBAMA",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.0667733,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bayelsa",
+    "town": "Yenagoa",
+    "centerName": "BAYELSA MEDICAL UNIVERSITY AMARATA YENAGOA",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.2804661,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bayelsa",
+    "town": "Toru-orua",
+    "centerName": "IJAW NATIONAL ACADEMY KAIAMA KOLOKUMA/OPOKUMA LGA",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.2915879,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Bayelsa",
+    "town": "Otuoke",
+    "centerName": "ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.3282699,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Benue",
+    "town": "Gboko",
+    "centerName": "EXCELLENT INT&#039;L COLLEGE CBT CENTRE (CENTRE 1)",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.0018424,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Benue",
+    "town": "Katsina-ala",
+    "centerName": "INFORMATION AND COMMUNICATION TECHNOLOGY CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.2841023,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Benue",
+    "town": "Makurdi",
+    "centerName": "E-TC OPPOSITE COLLEGE OF AGRICULTURAL ECONOMICS AND EXTENSION",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5391948,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Benue",
+    "town": "Makurdi",
+    "centerName": "BENUE STATE UNIVERSITY CBT",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5559192,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Benue",
+    "town": "Oju",
+    "centerName": "COLLEGE OF EDUCATION OJU CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.4243688,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Benue",
+    "town": "Otukpo",
+    "centerName": "CBT CENTRE OTUKPO",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.1323138,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Benue",
+    "town": "Otukpo",
+    "centerName": "UNIVERSAL CYBERNET LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.1320328,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Benue",
+    "town": "Iga-okpaya",
+    "centerName": "IGA ICT LTD.",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.8816888,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Benue",
+    "town": "Gboko",
+    "centerName": "KIMOTA SCIENCE COLLEGE CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.9905388,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Benue",
+    "town": "Gboko",
+    "centerName": "QUEEN OF THE ROSARY SEC. SCH. CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.9972258,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Benue",
+    "town": "Makurdi",
+    "centerName": "ATHANS MODEL COLLEGE CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5391948,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Benue",
+    "town": "Adikpo",
+    "centerName": "AMEEWUA MODEL COLLEGE ICT/CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.2465887,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Benue",
+    "town": "Makurdi",
+    "centerName": "GREG &AMP; CO ICT LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5242566,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Benue",
+    "town": "Makurdi",
+    "centerName": "INTERCONTINENTAL COLLEGE OF TECHNOLOGY MAKURDI (ICTM)",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5419391,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Benue",
+    "town": "Makurdi",
+    "centerName": "PAMSSET CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.4762621,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Benue",
+    "town": "Gboko",
+    "centerName": "FIDEI POLYTECHNIC GBOKO",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.975534,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Benue",
+    "town": "Makurdi",
+    "centerName": "FAZTLINK COMPUTERS RN39 IYORCHIA AYU ROAD BENUE STATE LIBRARY",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5427481,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Benue",
+    "town": "Makurdi",
+    "centerName": "ICTWEB LTD MAKURDI COLLEGE OF NURSING SCIENCES (FORMER SYMBOLS)",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.559164,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Benue",
+    "town": "Makurdi",
+    "centerName": "PROVERITAS IT CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5259276,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Borno",
+    "town": "Biu",
+    "centerName": "COLLEGE OF EDUCATION WAKA -BIU MAIDUGURI ROAD BIU LGA",
+    "address": "",
+    "latitude": null,
+    "longitude": 12.1918637,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Borno",
+    "town": "Maiduguri",
+    "centerName": "JAMB ZONAL OFFICE MAIDUGURI",
+    "address": "",
+    "latitude": null,
+    "longitude": 13.1519665,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Borno",
+    "town": "Maiduguri",
+    "centerName": "BORNO STATE UNIVERSITY CBT CENTER (FORMER KASHIM IBRAHIM COLLEGE OF EDUCATION) KANO/JOS ROAD MAIDUGURI BORNO STATE",
+    "address": "",
+    "latitude": null,
+    "longitude": 13.0040358,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Borno",
+    "town": "Maiduguri",
+    "centerName": "UNIMAID ICT 2 CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 13.2014452,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Borno",
+    "town": "Maiduguri",
+    "centerName": "UNIMAID ICT 3 CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 13.1930878,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Borno",
+    "town": "Maiduguri",
+    "centerName": "RAMAT POLYTECHNIC CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 13.1328135,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Borno",
+    "town": "Maiduguri",
+    "centerName": "AL-MUNEER INT&#039;L COLLEGE (MOTIME COMMUNICATION) CBT/PROFESSIONAL CENTRE 1 OFF BIU ROAD MAIDUGURI",
+    "address": "",
+    "latitude": null,
+    "longitude": 13.1306124,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Borno",
+    "town": "Maiduguri",
+    "centerName": "AL-MUNEER INT&#039;L COLLEGE (MOTIME COMMUNICATION) CBT/PROFESSIONAL CENTRE 2 OFF BIU ROAD MAIDUGURI",
+    "address": "",
+    "latitude": null,
+    "longitude": 12.9846726,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Borno",
+    "town": "Maiduguri",
+    "centerName": "NORTH EAST CHILDREN&#039;S TRUST THE LEARNING CENTRE (NECT/TLC) 5",
+    "address": "",
+    "latitude": null,
+    "longitude": 13.1306124,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Borno",
+    "town": "Biu",
+    "centerName": "DIRECTORATE OF ICT NIGERIAN ARMY UNIVERSITY BIU PERMANENT SITE CENTRE 1. NO 1 BIU-GOMBE ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": 12.176443,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Borno",
+    "town": "Biu",
+    "centerName": "DIRECTORATE OF ICT NIGERIAN ARMY UNIVERSITY BIU TEMPORARY SITE CENTRE 2. NO 1 BIU-GOMBE ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": 12.176443,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Borno",
+    "town": "Maiduguri",
+    "centerName": "SILVER JET CBT PROFESSIONAL E-EXAMINATION CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 13.144036,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Cross-",
+    "town": "Riverakamkpa",
+    "centerName": "CROSS RIVER STATE COLLEGE OF EDUCATION ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.349917,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Cross-",
+    "town": "Rivercalabar",
+    "centerName": "UNIVERSITY OF CALABAR E-LIBRARY COMPLEX",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.3399276,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Cross-",
+    "town": "Rivercalabar",
+    "centerName": "JAMB STATE OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.3450189,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Cross-",
+    "town": "Rivercalabar",
+    "centerName": "CROSS RIVER UNIVERSITY OF TECHNOLOGY (CRUTECH CBT)",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.329577,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Cross-",
+    "town": "Rivercalabar",
+    "centerName": "NATIONAL OPEN UNIVERSITY OF NIGERIA",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.3345584,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Cross-",
+    "town": "Riverobudu",
+    "centerName": "FEDERAL COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.1707416,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Cross-",
+    "town": "Riverogoja",
+    "centerName": "BEEPS TECHNOLOGY LIMITED",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.8000656,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Cross-",
+    "town": "Riverokuku",
+    "centerName": "KLINNICAPPS ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.8163031,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Cross-",
+    "town": "Rivercalabar",
+    "centerName": "SWIFTCOM GLOBAL",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.350409,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Cross-",
+    "town": "Riverogoja",
+    "centerName": "FZX MEDIA CONSULTING LIMITED",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.7976937,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Cross-",
+    "town": "Riverogoja",
+    "centerName": "OWOCHE COLLEGE OF HEALTH SCIENCES AND TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.9105721,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Abraka",
+    "centerName": "DELTA STATE UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.1046701,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Abraka",
+    "centerName": "DELTA STATE UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.1046701,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Abraka",
+    "centerName": "DELTA STATE UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.1046701,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Effurun",
+    "centerName": "PETROLEUM TRAINING INSTITUTE",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.794473,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Emevor",
+    "centerName": "ADAM IGBUDU CHRISTIAN INSTITUTE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.2286617,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Ogwashi-uku",
+    "centerName": "DELTA STATE POLYTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.5646703,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Ughelli",
+    "centerName": "MICHEAL AND CECILIA IBRU UNIVERSITY (MCIU)",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.0608882,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Ughelli",
+    "centerName": "MICHEAL AND CECILIA IBRU UNIVERSITY(MCIU)",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.0608882,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Effurun",
+    "centerName": "BENCHILL SCHOOLS",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.7300611,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Effurun",
+    "centerName": "COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.73426,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Kiagbodo",
+    "centerName": "EDWIN CLARK UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.5066242,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Effurun",
+    "centerName": "PACIA INTERNATIONAL SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.7297824,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Asaba",
+    "centerName": "DELTA STATE LIBRARY CBT",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.6866608,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Sapele",
+    "centerName": "OBULE INTEGRATED SCHOOLS SAPELE",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.7020839,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Kwale",
+    "centerName": "BELLARKS POLYTECHNIC KWALE ( FORMER PRIME VOCATIONAL INSTITUTE )KM 4",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.6958939,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Effurun",
+    "centerName": "OPEL RESOURCES CENTER 1",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.7837965,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Warri",
+    "centerName": "SOLOGHA EKPEMUPOLO CBT",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.7665824,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Ibusa",
+    "centerName": "TINOK INNOVATION HUB",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.6264003,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Ogwashi-uku",
+    "centerName": "DELTA STATE POLYTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.5646703,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Ozoro",
+    "centerName": "DSUST CENTRE 2",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.2237602,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Oleh",
+    "centerName": "HYACENRY COMPUTER HUBB LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.2096993,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Asaba",
+    "centerName": "WESTGATE CBT CENTRE 1",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.7139029,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Asaba",
+    "centerName": "WESTGATE CBT CENTRE 2",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.7139029,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Asaba",
+    "centerName": "FUTURE AMBASSADORS INTL SCHOOLS CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.6737538,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Abraka",
+    "centerName": "ZANEL VENTURES CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.1802763,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Effurun",
+    "centerName": "LEADS ACADEMY CBT CENTRERNNO. 98 ALEGBO/OKORIBI",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.8005794,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Asaba",
+    "centerName": "INFORMATION AND COMMUNICATION TECHNOLOGY CENTRE.RNFEDERAL COLLEGE OF EDUCATION (TECHNICAL)",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.6958939,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Abraka",
+    "centerName": "CONARINA MARITIME ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.0516895,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Asaba",
+    "centerName": "FLO VALLEY INTERNATIONAL SCHOOL.RNNO. 1",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.7064343,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Delta",
+    "town": "Warri",
+    "centerName": "IZISCO OBOS INSTITUTE OF MARITIME STUDIES AND TECHNOLOGY. 2/6 IGBESIVWE STREET. OFF OKERE-UGBORIKOKO ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.7586692,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ebonyi",
+    "town": "Abakaliki",
+    "centerName": "COMPR. SCH. OF MGT. &AMP; TECH.(CSMT)CBT. CTR. ALONG WATCHMAN STREET",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.1118721,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ebonyi",
+    "town": "Abakaliki",
+    "centerName": "JAMB STATE OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.1120116,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ebonyi",
+    "town": "Abakaliki",
+    "centerName": "MASTERSOFT TECHNOLOGY LIMITED MILE 50 LAYOUT",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.0897856,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ebonyi",
+    "town": "Afikpo",
+    "centerName": "AKANU IBIAM FEDERAL POLYTECHNIC JAMB CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.9271122,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ebonyi",
+    "town": "Ikwo",
+    "centerName": "ALEX EKWUEME FEDERAL UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.1411528,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ebonyi",
+    "town": "Abakaliki",
+    "centerName": "ANNUNCIATION ICT CTR.",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.0953062,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ebonyi",
+    "town": "Abakaliki",
+    "centerName": "EBONYI STATE UNIV. CBT CTR. 1 (PERM. SITE) ALONG ENUGU-ABAKALIKI EXPR-WAY",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.0169028,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ebonyi",
+    "town": "Abakaliki",
+    "centerName": "EBONYI STATE UNIV. CBT CTR. 2 (PERM. SITE) ALONG ENUGU-ABAKALIKI EXPR-WAY",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.0169028,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ebonyi",
+    "town": "Abakaliki",
+    "centerName": "FOUNTAIN OF KNOWLEDGE INTERNATIONAL ACADEMY CBT CENTRE. NO. 49B NTEJE STREET OPPOSITE SPEEDWAY FILLING STATION OFF ABAKALIKI-ENUGU EXPRESSWAY",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.531019,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ebonyi",
+    "town": "Abakaliki",
+    "centerName": "CODEFEST INTERNATIONAL ACADEMY CBT CENTRE. BLOCK A",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.1120116,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ebonyi",
+    "town": "Afikpo",
+    "centerName": "BERTHA BRIGHT KIDS ACADEMY 88 NDIBE BEACH ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.9443777,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ebonyi",
+    "town": "Abakaliki",
+    "centerName": "KASSIE BRAUN MEMORIAL SCHOOLS CBT CENTRERNUMUIGWE NKALEKE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.1053721,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Ovah",
+    "centerName": "DANIET GLOBAL RESOURCES N0. 124 AKPAPAVA ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.6402389,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Benin",
+    "centerName": "CITY UNIVERSITY OF BENIN INTERNATIONAL ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.609863,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Ekpoma",
+    "centerName": "AMBROSE ALLI UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.0820467,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Benin",
+    "centerName": "CITY JAMB ZONAL OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.6222042,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Benin",
+    "centerName": "CITY COMPLETE COMPUTER AND TECHNOLOGY INSTITUTE RN13",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.6250339,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Ekpoma",
+    "centerName": "MOUNT CARMEL SECONDARY SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.1304603,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Igarra",
+    "centerName": "MJ &AMP; ESHOIZA ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.0946315,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Igueben",
+    "centerName": "COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.2669975,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Auchi",
+    "centerName": "ZINCOM TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.2562359,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Iyahmo",
+    "centerName": "EDO STATE UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.3078141,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Benin",
+    "centerName": "CITY GIFTEDHANDS SCIENCE AND TECHNOLOGY LTD. 155",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.6097147,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Uromi",
+    "centerName": "HF-JEMAJO VENTURE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.3308481,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Benin",
+    "centerName": "CITY WAEC INTERNATIONAL OFFICE CBT (CTR. 1)",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.6056972,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Benin",
+    "centerName": "CITY WAEC INTERNATIONAL OFFICE CBT (CTR. 2)",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.6056972,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Ekpoma",
+    "centerName": "AMBROSE ALLI UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.0820467,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Ovah",
+    "centerName": "PENOTER TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.6188896,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Benin",
+    "centerName": "CITY CELVIM BUSINESS VENTURES. 15",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.6270774,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Benin",
+    "centerName": "CITY MAXNET TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.6122565,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Benin",
+    "centerName": "CITY ZINCOM COMPUTERS",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.6402389,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Benin",
+    "centerName": "CITY BOILING POINT ACADEMY 12",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.6052911,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Auchi",
+    "centerName": "BISHOP GABRIEL GHIEAKHOMO FOUNDATION JAMB CBT CENTRE. ST ANTHONY CATHOLIC EDUCATION CENTRE IMIEGBA EDO STATE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.2747734,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Edo",
+    "town": "Benin",
+    "centerName": "CITY EMERALD IT ACADEMY LIMITED NO 174",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.636902,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ekiti",
+    "town": "Ado-ekiti",
+    "centerName": "EKITI ANGLICAN DIOCESAN HIGH SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.2004966,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ekiti",
+    "town": "Ado-ekiti",
+    "centerName": "THE FEDERAL POLYTECHNIC DIGITAL LIBRARY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.2886629,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ekiti",
+    "town": "Ado-ekiti",
+    "centerName": "JAMB PROFESSIONAL TEST CENTRE (PTC)",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.2021854,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ekiti",
+    "town": "Ado-ekiti",
+    "centerName": "PHOENIX CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.3109505,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ekiti",
+    "town": "Igede-ekiti",
+    "centerName": "MATER CHRISTI SCHOOL CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.1221493,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ekiti",
+    "town": "Ijero-ekiti",
+    "centerName": "COLLEGE OF HEALTH SCIENCE &AMP; TECHNOLOGY IJERO CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.0826444,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ekiti",
+    "town": "Oye-ekiti",
+    "centerName": "FEDERAL UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.3146864,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ekiti",
+    "town": "Ado-ekiti",
+    "centerName": "AFE BABALOLA ADO EKITI (ABUAD) CENTRE 1",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.3076366,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ekiti",
+    "town": "Ado-ekiti",
+    "centerName": "AFE BABALOLA ADO EKITI (ABUAD) CENTRE 2",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.3076366,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ekiti",
+    "town": "Ikere",
+    "centerName": "AJAYI IBUKUNOLU CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.2164412,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ekiti",
+    "town": "Ijero-ekiti",
+    "centerName": "OKE-OSANYINTOLU CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.3109505,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ekiti",
+    "town": "Ijero-ekiti",
+    "centerName": "VENITE UNIVERSITY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.109336,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ekiti",
+    "town": "Oye-ekiti",
+    "centerName": "AARE AKOMOLAFE ADEBAYO CBT CENTRE INSTITUTE OF PART TIME STUDIES FEDERAL UNIVERSITY OYE EKITI",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.3146864,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Ekiti",
+    "town": "Omuooke-ekiti",
+    "centerName": "AT-TAQWA CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.7593547,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Enugu",
+    "centerName": "FORETRUST DIGITAL CONSULTING LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.5420552,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Enugu",
+    "centerName": "JAMB ZONAL OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4992079,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Agbani",
+    "centerName": "ST AUGUSTINE COMPUTERS CENTRE 1 NDIUNO UWANI AKPUGO NKANU WEST LGA.ENUGU STATE.",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.6087108,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Nsukka",
+    "centerName": "ELCO ICT",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.3961822,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Nsukka",
+    "centerName": "UNIVERSITY OF NIGERIA NSUKKA",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4115263,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Nsukka",
+    "centerName": "UNIVERSITY OF NIGERIA",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4115263,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Nsukka",
+    "centerName": "ZEETECH SYSTEM AND COMM.LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.39761,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Enugu",
+    "centerName": "IMT DIGITAL LEARNING MANAGEMENT CENTRE (IMT/DLMC) 1 CAMPUS 3",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.5138947,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Enugu",
+    "centerName": "JULIA-GEE CORNERSTONE SEC SCH CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.5163754,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Enugu",
+    "centerName": "IMT DIGITAL LEARNING MANAGEMENT CENTRE (IMT/DLMC) 2",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.5138947,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Orba-nsukka",
+    "centerName": "DE-BLUE DOVES CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4649936,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Enugu",
+    "centerName": "BISHOP OTUBELU JUNIORATE CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4898263,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Oji-river",
+    "centerName": "FEDERAL COOPERATIVE COLLEGE ICT-HUB",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.2615404,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Enugu",
+    "centerName": "CENTRE FOR ADVANCED LIBRARY AND INFORMATION MANAGEMENT (CALIM) ICT",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.5228205,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Enugu",
+    "centerName": "ENUGU STATE COLLEGE OF EDUCATION (TECHNICAL)",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4836471,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Enugu",
+    "centerName": "COAL CITY UNIVERSITY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.5844542,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Nsukka",
+    "centerName": "NNAMDI AZIKIWE CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4085647,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Nsukka",
+    "centerName": "HENRYBEN COMPUTER SCHOOL NO. 105 UGWUOYE ENUGU ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.3732655,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Emene-enugu",
+    "centerName": "MARIST POLYTECHNIC CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.5635562,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Emene-enugu",
+    "centerName": "ROCHAS FOUNDATTION COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.5647368,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Akpugo",
+    "centerName": "ST AUGUSTINE CBT 2",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.6087108,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Nsukka",
+    "centerName": "MADUKA UNIVERSITY CBT CENTER 2 EKWEGBE NSUKKA OLD ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.3734369,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Nsukka",
+    "centerName": "MADUKA UNIVERSITY CBT CENTER 1 EKWEGBE NSUKKA OLD ROAD1/7/25",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4286714,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Nsukka",
+    "centerName": "MADUKA UNIVERSITY CBT CENTER 3 EKWEGBE NSUKKA OLD ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.3734369,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Nsukka",
+    "centerName": "MADUKA UNIVERSITY CBT CENTER 4 EKWEGBE NSUKKA OLD ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.3734369,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Enugu",
+    "town": "Nsukka",
+    "centerName": "MADUKA UNIVERSITY CBT CENTER 5 EKWEGBE NSUKKA OLD ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.3734369,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Gombe",
+    "town": "Dukku",
+    "centerName": "DUKKU COMMUNITY SCIENCE SECONDARY SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": 10.7606464,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Gombe",
+    "town": "Gombe",
+    "centerName": "COMMUNITY EDUCATION RESOURCE CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 11.1730615,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Gombe",
+    "town": "Gombe",
+    "centerName": "EL-LAWANTY ICT CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": 11.172793,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Gombe",
+    "town": "Gombe",
+    "centerName": "GOFCECON COMPUTER LAB.",
+    "address": "",
+    "latitude": null,
+    "longitude": 11.1438854,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Gombe",
+    "town": "Gombe",
+    "centerName": "JAMB STATE OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": 11.1606097,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Gombe",
+    "town": "Gombe",
+    "centerName": "MUSASA WORLDWIDE SOLUTIONS LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": 11.1544352,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Gombe",
+    "town": "Gombe",
+    "centerName": "PROF. ISA ALI IBRAHIM (PANTAMI)",
+    "address": "",
+    "latitude": null,
+    "longitude": 11.146455,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Gombe",
+    "town": "Kaltungo",
+    "centerName": "MODEL SCHOOL CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 11.2897662,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Gombe",
+    "town": "Bajoga",
+    "centerName": "GOMBE STATE POLYTECHNIC CBT CENTER BAJOGA",
+    "address": "",
+    "latitude": null,
+    "longitude": 11.4293868,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Gombe",
+    "town": "Filiya",
+    "centerName": "PERO CHONGE CBT CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": 11.17816,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Okigwe",
+    "centerName": "PRINCE OF PEACE COMPUTER INSTITUTE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.1493998,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Nekede",
+    "centerName": "FEDERAL POLYTECHNIC NEKEDE CBT CENTRE I",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0286107,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Okigwe",
+    "centerName": "MARIANNA COLLEGE OKIGWE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.3308903,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Owerri",
+    "centerName": "IMO STATE UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0422514,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Owerri",
+    "centerName": "LITTLE ROCK SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0320221,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Nekede",
+    "centerName": "SHEKINA SMART MULTI CONCEPT LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.039243,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Owerri",
+    "centerName": "SWINTEC COMPUTER INSTITUTE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0255358,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Owerri",
+    "centerName": "UNIQUE COMPUTER INSTITUTE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.02538,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Owerri",
+    "centerName": "JAMB STATE OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.011293,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Owerri",
+    "centerName": "ALVAN IKOKU FEDERAL COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.024285,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Owerri",
+    "centerName": "OWERRI CBT HI-TECH PLOT C15 OKOHIA LAYOUT",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.9968842,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Owerri",
+    "centerName": "PRIME TIME COLLOSSEUM",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0083234,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Owerri",
+    "centerName": "SORONARA VENTURES NIGERIA LIMITED",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0359532,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Owerri",
+    "centerName": "JAMB PROFESSIONAL TEST CENTRE (PTC)",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0112765,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Owerri",
+    "centerName": "JAMB PROFESSIONAL TEST CENTRE (PTC) CENTRE 2",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0112765,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Owerri",
+    "centerName": "JAMB PROFESSIONAL TEST CENTRE (PTC)",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0112765,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Nekede",
+    "centerName": "ICT CENTRE FEDERAL UNIVERSITY OF TECH",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0175879,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Mbaise",
+    "centerName": "MATER ECCLESIAE SEMINARY",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.2403432,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Owerri",
+    "centerName": "GALAXY ICT AND EDUCATIONAL SERVICES",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0257687,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Orlu",
+    "centerName": "ORU EAST CBT CENTRE (FOE ICT) ORU EAST LGA HEADQUARTERS",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.8983734,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Owerri",
+    "centerName": "DELIGHT INTERNATIONAL SCHOOLS CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.9853474,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Owerri",
+    "centerName": "IMO GIRLS ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.0401757,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Imo",
+    "town": "Owerri",
+    "centerName": "PRINCE ONUNWA COLLEGE AND FINISHING SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.9917036,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Jigawa",
+    "town": "Dutse",
+    "centerName": "JAMB PROFESSIONAL TEST CENTER (PTC). JAMB STATE OFFICE DUTSE",
+    "address": "",
+    "latitude": null,
+    "longitude": -84.5816716,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Jigawa",
+    "town": "Dutse",
+    "centerName": "FEDERAL UNIVERSITY DUTSE E &NDASH; LEARNING CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.3673496,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Jigawa",
+    "town": "Hadejia",
+    "centerName": "BINYAMINU USMAN POLYTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": 10.0136113,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Jigawa",
+    "town": "Kazaure",
+    "centerName": "HUSSAINI ADAMU FEDERAL POLTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.4191966,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Jigawa",
+    "town": "Kazaure",
+    "centerName": "JIGAWA STATE INSTITUTE OF INFORMATION TECH. 3KM KANO-DAURA ROAD KAZAURE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.4326946,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Jigawa",
+    "town": "Gumel",
+    "centerName": "JIGAWA STATE COLLEGE OF EDUCATION GUMEL CENTRE 1",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.3840065,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Jigawa",
+    "town": "Kafin",
+    "centerName": "HAUSA SULE LAMIDO UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.915591,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Jigawa",
+    "town": "Dutse",
+    "centerName": "FEDERAL UNIVERSITY DUTSE ICT CBT CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.3673496,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Jigawa",
+    "town": "Gumel",
+    "centerName": "JICORAS CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.3839598,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Jigawa",
+    "town": "Dutse",
+    "centerName": "FUD E-LEARNING CENTRE II",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.3673496,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Jigawa",
+    "town": "Hadejia",
+    "centerName": "FUTUREMAP FOUNDATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 10.040849,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Jigawa",
+    "town": "Gumel",
+    "centerName": "JIGAWA STATE COLLEGE OF EDUCATION GUMEL CENTRE 2",
+    "address": "",
+    "latitude": null,
+    "longitude": 9.3840065,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "ALEKWE NIGERIA LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4471339,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "DANBO INTERNATIONAL SCHOOLS",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4348247,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "SHIMEN GLOBAL CONCEPTS LTD CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4110988,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "WHITE HOUSE COMPUTERS LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4121151,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "JAMB ZONAL OFFICE KADUNA",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4533804,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "KADUNA STATE UNIVERSITY CBT CENTRE TAFAWA BALEWA WAY",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.450519,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "QUEEN AMINA COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4188293,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kafanchan",
+    "centerName": "FANTSUAM FOUNDATION CBT",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.3057526,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Zaria",
+    "centerName": "AHMADU BELLO UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.6385368,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Zaria",
+    "centerName": "GOLDEN HEIGHT COMPREHENSIVE SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.7417874,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Zaria",
+    "centerName": "NUHU BAMALLI POLYTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.3801028,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Zaria",
+    "centerName": "INSTITUTE OF EDUCATION AND INFORMATION TECHNOLOGY ZARIA. CENTRE 1",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.7080102,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "SKOLAK RESOURCES LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4251334,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "AMAL COMPUTERS AND TEST CENTRE NIGERIA LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4047644,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "DIVINE PROGRESS SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4447589,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Zaria",
+    "centerName": "AWESONS ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.7335988,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Zaria",
+    "centerName": "ZARIA CONSULTANCY LIMITED",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.7321648,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Zaria",
+    "centerName": "SIF CBT &AMP; ICT PROFESSIONAL TRAINING",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4265135,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "MARYAM MODEL SCHOOL CBT",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4185322,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Zaria",
+    "centerName": "ZARIA EDUCATION DEVELOPMENT ASSOCIATION (ZEDA) CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.6994433,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "SOUTH SHEIKH ABUBAKAR GUMI CBT &amp;AMP; TRAINING CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4014231,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kafanchan",
+    "centerName": "ST. THADDEUS SCIENCE ACADEMY CBT CENTRE 1",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.3122831,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "IRL IT SOLUTIONS NIGERIA LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4228928,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "DE-DETERMINANT CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4360906,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Angola",
+    "town": "Road",
+    "centerName": "OPPOSITE SHAGARI LOW COST",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4458576,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "DEFENCE INDUSTRIES CORPORATION OF NIGERIA (DICON)",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.413705,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Zaria",
+    "centerName": "MAINLAND COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.69687,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "OPEN DISTANCE &AMP; FLEXIBLE E-LEARNING CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.413101,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Zaria",
+    "centerName": "NIGERIAN MILITARY SCHOOL CHINDIT CANTONMENT",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.7376168,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "CHRIST AMBASSADORS INTERNATIONAL COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4651828,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Soba",
+    "centerName": "ALHAJI SANI DAUDA ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.0548125,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "KADWEL INTERNATIONAL SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4259609,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Zaria",
+    "centerName": "ISLAMIC TRUST OF NIGERIA MODEL SCHOOLS",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.7135978,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Soba",
+    "centerName": "ANCHAU -CBT CENTRE GSS ANCHAU TAKALAFIA",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.3937532,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "MUHAMMADU BUHARI PROFESSIONAL TESTING CENTRE 2",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4322921,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "MUHAMMADU BUHARI PROFESSIONAL TESTING CENTRE 4",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.7094537,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "MUHAMMADU BUHARI PROFESSIONAL TESTING CENTRE 1",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4322921,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kaduna",
+    "centerName": "MUHAMMADU BUHARI PROFESSIONAL TESTING CENTRE 3",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4322921,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Zaria",
+    "centerName": "SILVERGATE COLLEGE OF HEALTH SCIENCES AND TECHNOLOGY ZARIA",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.6824971,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kaduna",
+    "town": "Kafanchan",
+    "centerName": "KACHIA COMMUNITY CBT CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.9551999,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Bichi",
+    "centerName": "FEDERAL COLLEGE OF EDUCATION (TECHNICAL)",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.2155072,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "AMNET INSTITUTE OF INFORMATION TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.506599,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "JAMB PROFESSIONAL TEST CENTRE (PTC)",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.1364161,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "JAMB ZONAL OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.591975,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "MS WORLD ICT INSTITUTE OF INFORMATION TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5397302,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "OVER-ONE CONSULT &AMP; INVESTMENT LIMITED CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5239388,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "PIONEERS ICT NIGERIA LIMITED",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5338007,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "THE LIGHT COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.4677851,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Wudil",
+    "centerName": "MAIN LIBRARY KANO UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.8533636,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Wudil",
+    "centerName": "NCC CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.8533636,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "SAADATU RIMI COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5507836,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "SKYLINE UNIVERSITY NIGERIA. NO 2 ZARIA ROAD KANO (FORMER BANK OF THE NORTH)",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5331086,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "CYBERTRON LIMITED",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5456016,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "AIA INSTITUTE OF COMPUTER AND BASIC STUDIES",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.4710213,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "HUDAIBIYYA CBT CENTER PLOT 1 AND 2 AJACENT TO HISBA BOARD SHARADA PHASE I",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5175556,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "IKO SAI ALLAH ICT NETWORK GLOBAL NO. 548",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.4791367,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "TREZTECH",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.434934,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Wudil",
+    "centerName": "WUDIL COMPUTER INFORMATION TECHNOLOGY. NO2",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.8419647,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "ADVANTURE ASSOCIATE (AA). BEHIND SHESHE SUPERMARKET",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5705965,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "EMIRATE COLLEGE OF HEALTH SCIENCES &AMP; TECH INTERPRENUERSHIP CENTRE LAB 1. TUDUN YOLA ESTATE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.4729592,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "EMIRATE COLLEGE OF HEALTH SCIENCES &AMP; TECH INTERPRENUERSHIP CENTRE LAB II. TUDUN YOLA ESTATE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.4729592,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "LEGEND ITC INTEGRATED SERVICE. NO. 929 CHIRANCHI YAMMA",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.4787029,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "FIRST QUARTILE PROFESSIONALS CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5573876,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "RUBY DIGITAL TECHNOLOGY LTD",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.4293891,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Wudil",
+    "centerName": "E-LEARNING CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.8533636,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "RABIU MUSA KWANKWASO COLLEGE OF ADVANCED &AMP; REMEDIAL STUDIES(CARS)",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.555608,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Dambatta",
+    "centerName": "UMMY GENERAL CONTRACTORS (UGC) CBT CENTER DANBATTA",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5392275,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "MUSTIBRAH COLLEGE OF INFORMATION TECHNOLOGY AND MANAGEMENT STUDIES",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5589358,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "AL-AZHAR CBT CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.4528272,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "A.U MAINASARA DIGITAL ICT CONSULTANCY",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5108667,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "FPK CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.1783543,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "GABASAWA MEGA CBT CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5657812,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "JAMILU IBRAHIM IMPERIAL COLLEGE OF HEALTH SCIENCES &amp; TECHNOLOGY (JICOHSAT) NO. 13 JOS ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.4101408,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "BAHAUSHIYYA INTERNATIONAL LIMITED",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.1597772,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kano",
+    "town": "Kano",
+    "centerName": "GIGA-PLUS DIGITAL PLANET NIIG LTD KWANAR DAKATA JUMAAT MOSQUE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.5462235,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Katsina",
+    "town": "Daura",
+    "centerName": "YUSUF BALA USMAN COLLEGE OF EDUCATION AND LEGAL STUDIES",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.3225325,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Katsina",
+    "town": "Daura",
+    "centerName": "ZONAL EDUCATION QUALITY ASSURANCE CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.3225325,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Katsina",
+    "town": "Katsina",
+    "centerName": "ALQALAM UNIVERSITY MUHAMMAD SANUSI II ICT CENTRE TAFAWA BALEWA WAY ALONG DUTSINMA ROAD KATSINA",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.5997672,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Katsina",
+    "town": "Katsina",
+    "centerName": "BARDA INTERNATIONAL COLLEGE OFF HASSAN USMAN ROAD NEAR GRA CENTRAL MOSQUE KATSINA",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.6264759,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Katsina",
+    "town": "Katsina",
+    "centerName": "UMARU MUSA YARADUA UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.5852506,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Katsina",
+    "town": "Katsina",
+    "centerName": "UMARU MUSA YARADUA UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.5855215,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Katsina",
+    "town": "Dutsinma",
+    "centerName": "CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4908876,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Katsina",
+    "town": "Malumfashi",
+    "centerName": "CBT CENTRE ZONAL EDUCATION QUALITY ASSURANCE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.6331649,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Katsina",
+    "town": "Dutsinma",
+    "centerName": "ISA KAITA COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4892483,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Katsina",
+    "town": "Katsina",
+    "centerName": "ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.5999073,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Katsina",
+    "town": "Katsina",
+    "centerName": "IDEAS AND DATA GLOBAL ACADEMY (FORMERLY DIALOGUE COMPUTER INSTITUTE)NO 1A NEAR LEA RAFUKKA",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.635236,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Katsina",
+    "town": "Katsina",
+    "centerName": "BETI ICT CENTRE IBB WAY FAGACHI QUARTERS NEAR FIDELITY BANK KATSINA",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.6019303,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Katsina",
+    "town": "Dutsinma",
+    "centerName": "FEDERAL UNIVERSITY DUTSINMA",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4813801,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Katsina",
+    "town": "Daura",
+    "centerName": "FGC DAURA E-LIBRARY",
+    "address": "",
+    "latitude": null,
+    "longitude": 8.3225325,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Katsina",
+    "town": "Funtua",
+    "centerName": "ZEE ALPHA INTERNATIONAL SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.331045,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Katsina",
+    "town": "Dutsinma",
+    "centerName": "FEDERAL UNIVERSITY DUTSINMA",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4813801,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Katsina",
+    "town": "Dutsinma",
+    "centerName": "JAMB PTC MEGA CENTRE 1",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.6237553,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Katsina",
+    "town": "Funtua",
+    "centerName": "MUGAJ INFORMATION AND COMMUNICATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.4246158,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Katsina",
+    "town": "Katsina",
+    "centerName": "DR ALIYU IDRIS FUNTUA CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.6024284,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kebbi",
+    "town": "Aliero",
+    "centerName": "KEBBI STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.495032,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kebbi",
+    "town": "Birnin",
+    "centerName": "KEBBI JAMB STATE OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.1956212,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kebbi",
+    "town": "Birnin",
+    "centerName": "KEBBI WAZIRI UMARU FEDERAL POLYTECHNIC",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.2230194,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kebbi",
+    "town": "Zuru",
+    "centerName": "ZEDS ICT CENTER",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.2318879,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kebbi",
+    "town": "Birnin",
+    "centerName": "KEBBI SMARTLINKS CBT SERVICES",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.1956212,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kebbi",
+    "town": "Jega",
+    "centerName": "COMMAND SCIENCE SECONDARY SCHOOL (BOYS) JEGA ICT CENTRE BIRNINKEBBI ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.1956212,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kebbi",
+    "town": "Zuru",
+    "centerName": "KEBNA ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.2374613,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kebbi",
+    "town": "Birnin",
+    "centerName": "KEBBI JAMB PROFESSIONAL TEST CENTRE (PTC)",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.2479885,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kebbi",
+    "town": "Argungu",
+    "centerName": "ADAMU AUGIE COLLEGE OF EDUCATION ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.5366582,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kebbi",
+    "town": "Aliero",
+    "centerName": "KEBBI STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY ALIERO UNIVERSITY LIBRARY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.495032,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kebbi",
+    "town": "Birnin",
+    "centerName": "KEBBI SAJO COLLEGE OF NURSING SCIENCES CBT CENTRE BEHIND POLICE BARRACKS BIRNIN KEBBI",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.2000153,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kebbi",
+    "town": "Birnin",
+    "centerName": "KEBBI YAURI COMMUNITY STUDY CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.1956212,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kogi",
+    "town": "Ankpa",
+    "centerName": "KOGI STATE COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.9917393,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kogi",
+    "town": "Kabba",
+    "centerName": "AAGES GLOBAL LINKS CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.0731872,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kogi",
+    "town": "Lokoja",
+    "centerName": "YABMA INTERNATIONAL SCIENCE ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.7433613,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kogi",
+    "town": "Lokoja",
+    "centerName": "JAMB STATE OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.6973385,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kogi",
+    "town": "Okene",
+    "centerName": "S &AMP; J EL-LATEEF &AMP; HASSY COMPUTER INSTITUTE (ICSS) IHIMA",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.1745977,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kogi",
+    "town": "Idah",
+    "centerName": "SEAGATE COMMUNICATION AND NETWORKING",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.7440467,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kogi",
+    "town": "Anyigba",
+    "centerName": "MULTIPURPOSE ICT/E-EXAM CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 7.1874049,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kogi",
+    "town": "Lokoja",
+    "centerName": "HARMONY SECONDARY SCHOOL CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.7026496,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kogi",
+    "town": "Lokoja",
+    "centerName": "EAGLES ACADEMY CBT CENTER; NO2 OGIDIBEJE CLOSE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.733343,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kogi",
+    "town": "Kabba",
+    "centerName": "H.E HAJIYA RASHIDA YAHAYA BELLO CBT CENTER;KOGI STATE COLLEGE OF EDUCATION (TECHNICAL) KABBA",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.0731872,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kogi",
+    "town": "Okene",
+    "centerName": "FEDERAL COLLEGE OF EDUCATION (FCE) OKENE CENTRE TWO (2) CBT EXAMINATION CENTRE COLLEGE MIS COMPLEX",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.2429045,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kogi",
+    "town": "Okene",
+    "centerName": "SUFIYAN INTERNATIONAL SCHOOLS CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.2429045,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kogi",
+    "town": "Lokoja",
+    "centerName": "KOGI STATE POLYTECHNIC CBT CENTRE LOKOJA",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.7400033,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kogi",
+    "town": "Lokoja",
+    "centerName": "JAMB PTC CENTRE 1",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.733343,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kogi",
+    "town": "Lokoja",
+    "centerName": "ALBARKA MULTIPURPOSE CO-OPERATIVE THRIFT AND CREDITS UNION",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.69692,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kogi",
+    "town": "Kabba",
+    "centerName": "FARMWELL W.A MULTI INVESTMENT LTD. FARM CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.7722818,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kogi",
+    "town": "Idah",
+    "centerName": "GOD IS ABLE",
+    "address": "",
+    "latitude": null,
+    "longitude": 6.791312,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Oko",
+    "centerName": "KWARA STATE COLLEGE OF EDUCATION CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.5274902,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Offa",
+    "centerName": "MIDLAND CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.709486,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "KWARA COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.5439994,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "PARROT CYBERWORLD LIMITED",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.6177386,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "SOCRATES COLLEGE (CBT CENTRE)",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.5133612,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "UNIVERSITY OF ILORIN CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.6771075,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "UNIVERSITY OF ILORIN CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.6771075,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Offa",
+    "centerName": "ICT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.6853989,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "DAMDAV CBT CENTRE RN30",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.5171688,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "METRO CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.5247459,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "UNIVERSITY OF ILORIN CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.6771075,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "FOCAL POINT CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.547301,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Offa",
+    "centerName": "EULERS CONSULTING COLLEGE OF HEALTH TECH OJOKU ROAD OFFA",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.7105225,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Malete",
+    "centerName": "CBT CENTRE KWARA STATE UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.4722419,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "KINGSTEP CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.5736438,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "MATRIX CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.6106657,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "NANA AISHAT MEMORIAL COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.5408445,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Oko",
+    "centerName": "THOMAS ADEWUMI UNIVERSITY",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.190555,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "IMAM HAMZAT COLLEGE OF EDUCATION CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.5077435,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "NIGERIA ARMY COLLEGE OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.5561414,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "AL-HIKMAH UNIVERSITY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.5056344,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "ILORIN WEST LOCAL GOVERNMENT CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.5284185,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Aran-orin",
+    "centerName": "LANDMARK UNIVERSITY CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.0799575,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "AAT EDUCATION RESOURCE CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.3874051,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "I-TREE MODEL ACADEMY CBT CENTRE ALENIBORO BESIDE LUBCON",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.4812636,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "LAFIAGI EMIRATE INFORMATION TECHNOLOGY &amp;AMP; INNOVATION HUB OPPOSITE MAIN MOTOR PARK",
+    "address": "",
+    "latitude": null,
+    "longitude": 4.5443923,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Kwara",
+    "town": "Ilorin",
+    "centerName": "TSOEDE CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 5.7563151,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Surulere",
+    "centerName": "DUNTRO HIGH SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.327622,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ijaye",
+    "centerName": "DATFORTE CBT CENTRE (DATFORTE INTERNATIONAL SCHOOLS)",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.4737945,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Abule",
+    "centerName": "EGBA TIMEON KAIROS EDUCATIONAL AND VOCATIONAL INSTITUTE. 326",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.2684981,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Oko-oba",
+    "centerName": "LUFEM SYSTEMS LTD 31",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3146856,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Akoka",
+    "centerName": "FEDERAL COLLEGE OF EDUCATION (TECHNICAL)",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3840965,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ilupeju",
+    "centerName": "DALEWARES INSTITUTE OF TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3664177,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Anthony",
+    "centerName": "HUNTSVILLE TECHNOLOGY LIMTED 4",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3697865,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ayobo",
+    "centerName": "ENEFEM GROUP OF SCHOOLS",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.2551368,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ayobo",
+    "centerName": "NEW OCEAN COMPRE. HIGH SCHOOL CBT CENTRE. 70/72 ALAJA ROAD MEGIDA B/STOP",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.2386806,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ayobo",
+    "centerName": "VANILLA OPTIONS CBT CENTRE.15",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.2674594,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Egbe",
+    "centerName": "BAFUTO INSTITUTE OF MANAGEMENT AND INFORMATION TECHNOLOGY",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.268693,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Egbe",
+    "centerName": "RISING SUN HIGH SCHOOL . 16",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.2849317,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ejigbo",
+    "centerName": "CLASSIC INTL SCHOOLS CBT CENTRE 29",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.2915444,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ejigbo",
+    "centerName": "FLORIN HIGH SCHOOL.23/25 OLUTIMEHIN STR. OFF AJIBOYE STR. MILITARY ZONE BUS STOP",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3009289,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Epe",
+    "centerName": "LAGOS STATE UNIVERSITY OF EDUCATION",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.9860625,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ijanikin",
+    "centerName": "CAREER BUILDERS ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.1220046,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Agidingbi",
+    "centerName": "WEST AFRICAN EXAMINATIONS COUNCIL",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3547863,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "BALAD PRIVATE SCHOOLS",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3665044,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "DIFAS COLLEGE CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.5198756,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "TOPVILLE COLLEGE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.4485725,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "ZEEKAY SCHOOLS CBT",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.4792447,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "WESTHILLS HIGH SCHOOL",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.4927205,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "ELIHANS CBT 5/7 FATAI TOMORI STRT. IGBO-OLOMU",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.460933,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ijegun",
+    "centerName": "IKE OLUWA COMPREHENSIVE COLLEGE CBT CENTRE. 14-16 TUNDE GBADEGESIN STR. OKERUBE ABARANJE LAGOS STATE1/7/25",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3552568,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Egbe",
+    "centerName": "AL-MIYZAN SCHOOLS CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.2696731,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Garki",
+    "centerName": "JAMB ZONAL OFFICE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.4481018,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ilupeju",
+    "centerName": "ETC NIGERIA LIMITED CENTRE 1",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3620373,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ilupeju",
+    "centerName": "ETC NIGERIA LIMITED CENTRE 2",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3620373,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Agege",
+    "centerName": "GOD&#039;S POWER INT&#039;L COLLEGE. 10",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3161712,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Yaba",
+    "centerName": "HA-SHEM ACADEMY",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.390009,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Yaba",
+    "centerName": "YABA COLLEGE OF TECHNOLOGY CENTRE 1",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3725549,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ojo",
+    "centerName": "CONNECTION COMPUTER TRAINING INSTITUTE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.1428537,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ijaye",
+    "centerName": "MALICOMP COMPUTERS",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3308617,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Agege",
+    "centerName": "LAGOOZ SCHOOLS",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3063846,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "THE 11-30 HALL EBUTE IGBOGBO ROAD",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.503448,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ogba",
+    "centerName": "WISDOM HOUSE CBT CENTRE 1",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3423253,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "ELITE BUSINESS CONSULT",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.514658,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ijegun",
+    "centerName": "BESTGIFT COMPREHENSIVE SCHOOLS CBT CENTRE 1/8 TUNJI ADEWOYIN / 2 MULAK AVENUE IJEGUN IKOTUN LAGOS STATE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.2476399,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "WINSFORD COMPREHENSIVE COLLEGE CBT",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.5237623,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Idimu",
+    "centerName": "VALUE PLACE COLLEGE CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.2829735,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Abijo",
+    "centerName": "FIRST OPTION PRIVATE SCHOOLS. KM42",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.679874,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Lagos",
+    "centerName": "ISLAND FARYDHAK CONCEPTS",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3967845,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ajah",
+    "centerName": "CLOUDEDGE TECHNOLOGIES LIMITED CBT",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.6032353,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ojo",
+    "centerName": "LASU CBT 18 LIMITED",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.2013707,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Egan",
+    "centerName": "GRAND SCHOOLS CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.2278086,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ijegun",
+    "centerName": "DOMINION HERITAGE SCHOOLS CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.2620279,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Oko",
+    "centerName": "OBA PERFECT ANGELS CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3086852,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ojota",
+    "centerName": "MICTEC INTERNATIONAL CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3819055,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Badagry",
+    "centerName": "MERITLAND CBT",
+    "address": "",
+    "latitude": null,
+    "longitude": 2.9587748,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ikorodu",
+    "centerName": "HOMAT SCHOOL OF BASIC STUDIES",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.5180925,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Onike",
+    "centerName": "HUMAN DEVELOPMENT INITIATIVES (GRACE HOUSE)",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.3858919,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ijegun",
+    "centerName": "MEMKAD SCHOOLS CBT CENTRE",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.256773,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Egbeda/idimu",
+    "centerName": "MOUNT GILGAL KONSULT LTD (EDUCATIONAL)",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.239371,
+    "landmark": ""
+  },
+  {
+    "id": "",
+    "state": "Lagos",
+    "town": "Ojo",
+    "centerName": "SUBLIME COLLEGE COMPUTER CENTRE 6",
+    "address": "",
+    "latitude": null,
+    "longitude": 3.1725224,
+    "landmark": ""
+  }
+]
