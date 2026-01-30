@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# FindMyCenter
 
-## Getting Started
+**FindMyCenter** is a "Text-First" exam centre locator designed for reliability on exam days in Nigeria. It prioritizes speed, accuracy, and low data usage to ensure candidates can find their offical exam venues even on slow 3G networks or without map data.
 
-First, run the development server:
+## 🚀 Core Philosophy
+**"Text-First, Map-Second"**
+Maps are treated as an enhancement, not a dependency. If a map fails to load or data is poor, the app remains 100% functional using descriptive addresses and landmarks.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠️ Tech Stack
+-   **Framework**: [Next.js 16 (App Router)](https://nextjs.org/)
+-   **Language**: TypeScript
+-   **Styling**: Tailwind CSS
+-   **Architecture**: Client-side logic with URL state persistence for resilience.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 1. Reliable Search Flow
+-   **Deterministic Logic**: Users select State -> LGA -> Centre. No free-text guessing.
+-   **URL Persistence**: Search state is saved in the URL (e.g., `/find?state=Lagos&lga=Ikeja`), allowing results to be shared or reloaded without data loss.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 2. Guarded Data & Maps
+-   **Ambiguity Guards**: Every result explicitly lists Centre Name + State + LGA to prevent confusion with similar names in different towns.
+-   **Map Guardrails**: Google Maps only load if the data `confidence_score` is ≥ 70.
+-   **Trust Indicators**: Clear badges distinguish between "Confirmed" (Official) and "Unverified" (Crowdsourced) locations.
 
-## Learn More
+### 3. Resilience & Performance
+-   **Instant Load**: Landing page designed to load in < 2s on 3G.
+-   **Global Error Boundary**: graceful error handling prevents "White Screens of Death" on crash.
+-   **Lazy Loading**: Maps are lazy-loaded to save user data.
 
-To learn more about Next.js, take a look at the following resources:
+## 🚦 Getting Started
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1.  **Clone the repository**:
+    ```bash
+    git clone https://github.com/onerandomdevv/find-my-center.git
+    cd find-my-center
+    ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+2.  **Install dependencies**:
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
 
-## Deploy on Vercel
+3.  **Run the development server**:
+    ```bash
+    npm run dev
+    ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+4.  **Open the app**:
+    Visit [http://localhost:3000](http://localhost:3000)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📁 Project Structure
+-   `src/app`: App Router pages (Landing, Find, Results, Details).
+-   `src/components`: Reusable UI components (Buttons, Selects, MapView).
+-   `src/data`: Mock database (`centres.json`).
+-   `src/types`: TypeScript definitions.
+
+---
+*Built for reliability.*
