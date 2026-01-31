@@ -3,12 +3,7 @@ import Link from 'next/link';
 import { Button } from '@/components/ui/Button';
 import { VerificationBadge } from '@/components/VerificationBadge';
 import { MapView } from '@/components/MapView';
-import centresData from '@/data/centres.json';
-import { Centre } from '@/types';
-
-// Force dynamic rendering if we were fetching from DB, but for static JSON it's fine.
-// However, to ensure we get params correctly in Next.js 15+, we await params.
-// Next.js 16 might strictly require awaiting params.
+import { getCentres } from '@/lib/data';
 
 interface PageProps {
     params: Promise<{ id: string }>;
@@ -16,7 +11,7 @@ interface PageProps {
 
 export default async function CentreDetailsPage({ params }: PageProps) {
     const { id } = await params;
-    const centres = centresData as Centre[];
+    const centres = getCentres();
     const centre = centres.find((c) => c.id === id);
 
     if (!centre) {
@@ -85,10 +80,10 @@ export default async function CentreDetailsPage({ params }: PageProps) {
 
                 {/* Map Section */}
                 <MapView
-                    latitude={centre.latitude}
-                    longitude={centre.longitude}
+                    latitude={centre.latitude || undefined}
+                    longitude={centre.longitude || undefined}
                     confidenceScore={confidenceScore}
-                    locationName={centre.name}
+                    locationName={centre.name || 'Centre'}
                 />
 
                 {/* Actions */}

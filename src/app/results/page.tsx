@@ -5,10 +5,9 @@ import { useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import { CentreCard } from '@/components/CentreCard';
 import { Button } from '@/components/ui/Button';
-import centresData from '@/data/centres.json';
-import { Centre } from '@/types';
+import { getCentres } from '@/lib/data';
 
-const centres = centresData as Centre[];
+const centres = getCentres();
 
 function ResultsList() {
     const searchParams = useSearchParams();

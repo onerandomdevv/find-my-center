@@ -17,7 +17,7 @@ export const CentreCard: React.FC<CentreCardProps> = ({ centre }) => {
                         {centre.lga_or_town}, {centre.state}
                     </p>
                 </div>
-                <VerificationBadge status={centre.verification_status} />
+                <VerificationBadge status={centre.verification_status || 'unverified'} />
             </div>
 
             <div className="mb-4 space-y-1 text-sm text-gray-600">

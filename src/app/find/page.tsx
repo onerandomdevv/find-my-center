@@ -4,11 +4,9 @@ import { Suspense, useEffect, useState, useMemo } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { Button } from '@/components/ui/Button';
 import { Select } from '@/components/ui/Select';
-import centresData from '@/data/centres.json';
-import { Centre } from '@/types';
+import { getCentres } from '@/lib/data';
 
-// Cast imports to correct type
-const centres = centresData as Centre[];
+const centres = getCentres();
 
 function SearchForm() {
   const router = useRouter();
@@ -22,7 +20,7 @@ function SearchForm() {
   // Derived data
   const states = useMemo(() => {
     const uniqueStates = Array.from(new Set(centres.map((c) => c.state)));
-    return uniqueStates.sort().map((s) => ({ label: s, value: s }));
+    return uniqueStates.sort().map((s) => ({ label: s || '', value: s || '' }));
   }, []);
 
   const lgas = useMemo(() => {
@@ -34,14 +32,14 @@ function SearchForm() {
           .map((c) => c.lga_or_town)
       )
     );
-    return filteredLgas.sort().map((l) => ({ label: l, value: l }));
+    return filteredLgas.sort().map((l) => ({ label: l || '', value: l || '' }));
   }, [selectedState]);
 
   const availableCentres = useMemo(() => {
     if (!selectedState || !selectedLga) return [];
     return centres
       .filter((c) => c.state === selectedState && c.lga_or_town === selectedLga)
-      .map((c) => ({ label: c.name, value: c.id }));
+      .map((c) => ({ label: c.name || 'Unknown Centre', value: c.id }));
   }, [selectedState, selectedLga]);
 
   // Update URL function
