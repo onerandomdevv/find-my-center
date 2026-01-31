@@ -1,0 +1,36 @@
+feat: Initial MVP Release "Text-First" Exam Centre Locator
+
+Here is a summary of our collaboration on the FindMyCenter MVP.
+
+We built a "Text-First" exam centre locator designed for reliability on exam days in Nigeria. The core philosophy was speed over flash—ensuring candidates can find their venue even on slow 3G networks or without map data.
+
+CORE ARCHITECTURE
+* Tech Stack: Next.js 16 (App Router), TypeScript, Tailwind CSS.
+* Design Principle: "Text-First, Map-Second". Maps are treated as an enhancement, not a dependency. If a map fails, the app still works.
+* Resilience: Global Error Boundaries and strict data validation to prevent crashes.
+
+IMPLEMENTED FEATURES
+1. Data Layer:
+   - Mock Database from `centres.json` with realistic test cases.
+   - Strict TypeScript interfaces for type safety.
+
+2. Landing Page (/):
+   - Instant load (< 2s).
+   - Lightweight text hero section.
+
+3. Search Flow (/find):
+   - Deterministic 3-Step Logic (State -> LGA -> Centre).
+   - URL Persistence for shareable searches.
+   - Semantic accessibility.
+
+4. Results System (/results):
+   - Ambiguity Guard showing full location details.
+   - Color-coded Trust Indicators.
+
+5. Centre Details & Maps (/centre/[id]):
+   - Map Guardrails (only loads if confidence score >= 70).
+   - Smart Fallback copy for missing maps.
+   - Lazy Loading for performance.
+
+SAFEGUARDS
+- Global Error Boundary (`error.tsx`) to prevent white screens.
