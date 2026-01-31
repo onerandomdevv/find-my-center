@@ -30,6 +30,7 @@ Provide a fast, reliable way for candidates to locate their official JAMB exam c
 - Centre data is read-only
 - IDs are stable
 - JSON is the source of truth
+- "Anchor Centres" used for zero-coverage LGAs
 
 ## Future Phases
 
