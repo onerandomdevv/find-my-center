@@ -1,10 +1,11 @@
-'use client';
+"use client";
 
-import { Suspense, useEffect, useState, useMemo } from 'react';
-import { useRouter, useSearchParams } from 'next/navigation';
-import { Button } from '@/components/ui/Button';
-import { Select } from '@/components/ui/Select';
-import { getCentres } from '@/lib/data';
+import { Suspense, useEffect, useState, useMemo } from "react";
+import { useRouter, useSearchParams } from "next/navigation";
+import Link from "next/link";
+import { Button } from "@/components/ui/Button";
+import { Select } from "@/components/ui/Select";
+import { getCentres } from "@/lib/data";
 
 const centres = getCentres();
 
@@ -13,14 +14,18 @@ function SearchForm() {
   const searchParams = useSearchParams();
 
   // Initialize state from URL params
-  const [selectedState, setSelectedState] = useState(searchParams.get('state') || '');
-  const [selectedLga, setSelectedLga] = useState(searchParams.get('lga') || '');
-  const [selectedCentreId, setSelectedCentreId] = useState(searchParams.get('centre') || '');
+  const [selectedState, setSelectedState] = useState(
+    searchParams.get("state") || "",
+  );
+  const [selectedLga, setSelectedLga] = useState(searchParams.get("lga") || "");
+  const [selectedCentreId, setSelectedCentreId] = useState(
+    searchParams.get("centre") || "",
+  );
 
   // Derived data
   const states = useMemo(() => {
     const uniqueStates = Array.from(new Set(centres.map((c) => c.state)));
-    return uniqueStates.sort().map((s) => ({ label: s || '', value: s || '' }));
+    return uniqueStates.sort().map((s) => ({ label: s || "", value: s || "" }));
   }, []);
 
   const lgas = useMemo(() => {
@@ -29,25 +34,25 @@ function SearchForm() {
       new Set(
         centres
           .filter((c) => c.state === selectedState)
-          .map((c) => c.lga_or_town)
-      )
+          .map((c) => c.lga_or_town),
+      ),
     );
-    return filteredLgas.sort().map((l) => ({ label: l || '', value: l || '' }));
+    return filteredLgas.sort().map((l) => ({ label: l || "", value: l || "" }));
   }, [selectedState]);
 
   const availableCentres = useMemo(() => {
     if (!selectedState || !selectedLga) return [];
     return centres
       .filter((c) => c.state === selectedState && c.lga_or_town === selectedLga)
-      .map((c) => ({ label: c.name || 'Unknown Centre', value: c.id }));
+      .map((c) => ({ label: c.name || "Unknown Centre", value: c.id }));
   }, [selectedState, selectedLga]);
 
   // Update URL function
   const updateUrl = (newState: string, newLga: string, newCentre: string) => {
     const params = new URLSearchParams();
-    if (newState) params.set('state', newState);
-    if (newLga) params.set('lga', newLga);
-    if (newCentre) params.set('centre', newCentre);
+    if (newState) params.set("state", newState);
+    if (newLga) params.set("lga", newLga);
+    if (newCentre) params.set("centre", newCentre);
     router.replace(`/find?${params.toString()}`, { scroll: false });
   };
 
@@ -55,16 +60,16 @@ function SearchForm() {
   const handleStateChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
     const newState = e.target.value;
     setSelectedState(newState);
-    setSelectedLga('');
-    setSelectedCentreId('');
-    updateUrl(newState, '', '');
+    setSelectedLga("");
+    setSelectedCentreId("");
+    updateUrl(newState, "", "");
   };
 
   const handleLgaChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
     const newLga = e.target.value;
     setSelectedLga(newLga);
-    setSelectedCentreId('');
-    updateUrl(selectedState, newLga, '');
+    setSelectedCentreId("");
+    updateUrl(selectedState, newLga, "");
   };
 
   const handleCentreChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
@@ -78,8 +83,8 @@ function SearchForm() {
       router.push(`/centre/${selectedCentreId}`);
     } else if (selectedState && selectedLga) {
       const params = new URLSearchParams();
-      params.set('state', selectedState);
-      params.set('lga', selectedLga);
+      params.set("state", selectedState);
+      params.set("lga", selectedLga);
       router.push(`/results?${params.toString()}`);
     }
   };
@@ -125,12 +130,8 @@ function SearchForm() {
       />
 
       <div className="pt-4">
-        <Button
-          onClick={handleNext}
-          disabled={!canProceed}
-          fullWidth
-        >
-          {selectedCentreId ? 'View Centre Details' : 'View All Centres in LGA'}
+        <Button onClick={handleNext} disabled={!canProceed} fullWidth>
+          {selectedCentreId ? "View Centre Details" : "View All Centres in LGA"}
         </Button>
       </div>
     </div>
@@ -139,7 +140,32 @@ function SearchForm() {
 
 export default function FindPage() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center bg-gray-50 p-4">
+    <main className="relative flex min-h-screen flex-col items-center justify-center bg-gray-50 p-4">
+      {/* Home Button */}
+      <nav className="absolute left-6 top-6">
+        <Link
+          href="/"
+          className="group flex items-center gap-2 text-sm font-medium text-gray-500 transition-colors hover:text-gray-900"
+        >
+          <div className="flex h-8 w-8 items-center justify-center rounded-full bg-white shadow-sm ring-1 ring-gray-200 transition-all group-hover:ring-gray-300">
+            <svg
+              className="h-4 w-4"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M10 19l-7-7m0 0l7-7m-7 7h18"
+              />
+            </svg>
+          </div>
+          <span>Home</span>
+        </Link>
+      </nav>
+
       <div className="mb-8 text-center">
         <h1 className="text-3xl font-bold text-gray-900">Search Centres</h1>
         <p className="mt-2 text-gray-600">
@@ -147,7 +173,9 @@ export default function FindPage() {
         </p>
       </div>
 
-      <Suspense fallback={<div className="text-center p-4">Loading search...</div>}>
+      <Suspense
+        fallback={<div className="text-center p-4">Loading search...</div>}
+      >
         <SearchForm />
       </Suspense>
     </main>
