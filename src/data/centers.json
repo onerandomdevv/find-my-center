@@ -8898,5 +8898,65 @@
     "latitude": null,
     "longitude": null,
     "landmark": ""
+  },
+  {
+    "id": "lagos-alimosho-mount-gilgal-konsult-ltd",
+    "state": "Lagos",
+    "town": "Alimosho",
+    "centerName": "MOUNT GILGAL KONSULT LTD",
+    "address": "19 DAUDA OYENIRAN STREET, AGRIC ROAD, BY IGANDO POLICE STATION, ALIMOSHO, LAGOS STATE",
+    "latitude": null,
+    "longitude": null,
+    "landmark": "Igando Police Station"
+  },
+  {
+    "id": "lagos-ajeromi-ifelodun-nuru-okunola-memorial-high-school",
+    "state": "Lagos",
+    "town": "Ajeromi-Ifelodun",
+    "centerName": "NURU OKUNOLA MEMORIAL HIGH SCHOOL",
+    "address": "1 LADIPO OUNWOLE AVENUE, NEW OKO-OBA, AJEGUNLE, AJEROMI-IFELODUN, LAGOS STATE",
+    "latitude": null,
+    "longitude": null,
+    "landmark": "New Oko-Oba"
+  },
+  {
+    "id": "fct-municipal-area-council-digital-bridge-institute",
+    "state": "FCT",
+    "town": "Municipal Area Council",
+    "centerName": "DIGITAL BRIDGE INSTITUTE",
+    "address": "NO. 8 P.O.W MAFEMI CRESCENT, UTAKO, ABUJA MUNICIPAL AREA COUNCIL, FCT",
+    "latitude": null,
+    "longitude": null,
+    "landmark": "Utako / Jabi"
+  },
+  {
+    "id": "oyo-ibadan-north-university-of-ibadan-distance-learning-centre",
+    "state": "Oyo",
+    "town": "Ibadan North",
+    "centerName": "UNIVERSITY OF IBADAN DISTANCE LEARNING CENTRE",
+    "address": "1500 METERS OFF AJIBODE, SASA ROAD, IBADAN NORTH, OYO STATE",
+    "latitude": null,
+    "longitude": null,
+    "landmark": "University of Ibadan"
+  },
+  {
+    "id": "rivers-obio-akpor-ignatius-ajuru-university-of-education-cbt-centre",
+    "state": "Rivers",
+    "town": "Obio/Akpor",
+    "centerName": "IGNATIUS AJURU UNIVERSITY OF EDUCATION CBT CENTRE",
+    "address": "RUMUOLUMENI, OBIO/AKPOR, RIVERS STATE",
+    "latitude": null,
+    "longitude": null,
+    "landmark": "Rumuolumeni"
+  },
+  {
+    "id": "ogun-abeokuta-south-moshood-abiola-polytechnic-mapoly-cbt-centre",
+    "state": "Ogun",
+    "town": "Abeokuta South",
+    "centerName": "MOSHOOD ABIOLA POLYTECHNIC (MAPOLY) CBT CENTRE",
+    "address": "OJERE, ABEOKUTA SOUTH, OGUN STATE",
+    "latitude": null,
+    "longitude": null,
+    "landmark": "Ojere"
   }
 ]

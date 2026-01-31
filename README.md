@@ -78,8 +78,29 @@ src/
  │   └─ data.ts               # Data access & filtering helpers
  │
 scripts/
+ ├─ data/
+ │   └─ nigeria-lgas.json     # Reference data for coverage auditing
+ ├─ data-audit.ts             # Script to verify data coverage gaps
  └─ fix-data.js               # Data cleaning / normalization utilities
 ```
+
+## 📊 Data Coverage & Audit
+
+The project includes tooling to ensure high data availability across Nigeria.
+
+### Running the Data Audit
+
+To verify coverage against official LGA requirements:
+
+```bash
+npx tsx scripts/data-audit.ts
+```
+
+This script identifies:
+
+- Missing LGAs (Zero coverage)
+- Low-coverage states (< 50%)
+- Data gaps in high-population areas (Lagos, FCT, etc.)
 
 ## 🤝 Contributing
 
