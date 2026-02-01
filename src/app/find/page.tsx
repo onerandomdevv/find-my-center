@@ -6,6 +6,7 @@ import Link from "next/link";
 import { Button } from "@/components/ui/Button";
 import { Select } from "@/components/ui/Select";
 import { getCentres } from "@/lib/data";
+import { getSearchTargets } from "@/lib/normalizeSearch";
 
 const centres = getCentres();
 
@@ -32,9 +33,7 @@ function SearchForm() {
     if (!selectedState) return [];
     const filteredLgas = Array.from(
       new Set(
-        centres
-          .filter((c) => c.state === selectedState)
-          .map((c) => c.lga_or_town),
+        centres.filter((c) => c.state === selectedState).map((c) => c.town),
       ),
     );
     return filteredLgas.sort().map((l) => ({ label: l || "", value: l || "" }));
@@ -42,8 +41,9 @@ function SearchForm() {
 
   const availableCentres = useMemo(() => {
     if (!selectedState || !selectedLga) return [];
+    const targets = getSearchTargets(selectedState, selectedLga);
     return centres
-      .filter((c) => c.state === selectedState && c.lga_or_town === selectedLga)
+      .filter((c) => c.state === selectedState && targets.includes(c.town))
       .map((c) => ({ label: c.name || "Unknown Centre", value: c.id }));
   }, [selectedState, selectedLga]);
 

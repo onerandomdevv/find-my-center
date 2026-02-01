@@ -31,6 +31,7 @@ Provide a fast, reliable way for candidates to locate their official JAMB exam c
 - IDs are stable
 - JSON is the source of truth
 - "Anchor Centres" used for zero-coverage LGAs
+- **Data Boundary**: `src/data/` is runtime; `scripts/` is tooling only.
 
 ## Future Phases
 
