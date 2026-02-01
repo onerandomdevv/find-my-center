@@ -31,7 +31,7 @@
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **Maps**: Google Maps Embed API
-- **Data Layer**: Local JSON (SSG-friendly)
+- **Data Layer**: Local JSON in `src/data/` (SSG-friendly)
 - **Deployment Target**: Static-first (Vercel-ready)
 
 ---
@@ -63,26 +63,22 @@ Open [http://localhost:3000](http://localhost:3000) to view the app.
 
 ```
 src/
- ├─ app/
- │   ├─ page.tsx              # Landing page
- │   ├─ find/page.tsx         # Search flow
- │   └─ centre/[id]/page.tsx  # Centre dashboard (details + map)
+ ├─ data/                 # Production Runtime Data (SSG source)
+ │   ├─ centers.json      # Cleaned exam centre database
+ │   └─ lga-aliases.json  # Search normalization mappings
  │
- ├─ components/
- │   └─ InternalMap.tsx       # Lazy-loaded map component
- │
- ├─ data/
- │   └─ centers.json          # Cleaned exam centre database
- │
- ├─ lib/
- │   └─ data.ts               # Data access & filtering helpers
- │
-scripts/
- ├─ data/
- │   └─ nigeria-lgas.json     # Reference data for coverage auditing
- ├─ data-audit.ts             # Script to verify data coverage gaps
- └─ fix-data.js               # Data cleaning / normalization utilities
+ ├─ app/                  # Next.js App Router
+ ├─ components/           # UI Components
+ └─ lib/                  # Shared utilities
+
+scripts/                  # Offline Tooling (Build-time / Auditing)
+ ├─ data/                 # Authoritative reference data
+ ├─ audits/               # Generated reports and verify logs
+ ├─ debug/                # Temporary inspection artifacts
+ └─ data-audit.ts         # Data coverage analysis tool
 ```
+
+> **Architecture Note:** `src/data/` is the only directory imported by frontend code. `scripts/` is for local development and auditing only.
 
 ## 📊 Data Coverage & Audit
 

@@ -1,0 +1,13 @@
+{
+  "Lagos": {
+    "Alimosho": ["Abule", "Ayobo", "Egbeda/idimu", "Idimu", "Ijegun"],
+    "Ikeja": ["Agidingbi", "Ogba"],
+    "Eti-Osa": ["Ajah"]
+  },
+  "FCT": {
+    "Municipal Area Council": ["Garki", "Wuse", "Maitama", "Jahi"]
+  },
+  "Oyo": {
+    "Ibadan North": ["Ibadan", "Sango"]
+  }
+}

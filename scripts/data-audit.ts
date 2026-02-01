@@ -138,15 +138,33 @@ function runAudit() {
     }
   });
 
-  console.log('\n\n--- ALL STATE COVERAGE SUMMARY ---');
-  Object.entries(auditReport).forEach(([state, stats]) => {
-    if (stats.coveragePercent < 100) {
-       console.log(`${state}: ${stats.coveragePercent}% (${stats.missingLgas.length} missing)`);
+  // Dump full report to file
+  const reportPath = path.join(process.cwd(), 'scripts/audits/audit_report.txt');
+  let reportOutput = `FindMyCenter Data Audit Report - ${new Date().toISOString()}\n\n`;
+  reportOutput += `States with < 50% Coverage: ${lowCoverageCount}\n\n`;
+  reportOutput += '--- HIGH PRIORITY GAPS (Key States) ---\n';
+  
+  HIGH_POPULATION_STATES.forEach(state => {
+    const stats = auditReport[state];
+    if (stats) {
+      reportOutput += `\nState: ${state} (${stats.coveredLgas}/${stats.totalLgas} covered - ${stats.coveragePercent}%)\n`;
+      if (stats.missingLgas.length > 0) {
+        reportOutput += `Missing LGAs: ${stats.missingLgas.join(', ')}\n`;
+      } else {
+        reportOutput += 'Full Coverage! ✅\n';
+      }
     }
   });
-  
-  // Dump full report to file? Or just console. 
-  // User asked for output report.
+
+  reportOutput += '\n\n--- ALL STATE COVERAGE SUMMARY ---\n';
+  Object.entries(auditReport).forEach(([state, stats]) => {
+    if (stats.coveragePercent < 100) {
+       reportOutput += `${state}: ${stats.coveragePercent}% (${stats.missingLgas.length} missing)\n`;
+    }
+  });
+
+  fs.writeFileSync(reportPath, reportOutput);
+  console.log(`\nFull report written to: ${reportPath}`);
 }
 
 runAudit();
